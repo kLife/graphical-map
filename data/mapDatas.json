@@ -1,0 +1,3627 @@
+﻿{
+	"[000]T01.rmd": {
+		"mapName": "古都ブルンネンシュティグ",
+		"mapType": 2,
+		"accessMap": "[010]G13.rmd,[024]G19.rmd,[016]G16.rmd,[502] T01_I01.rmd,[152]T01_D01_B01.rmd,[061]T01_W01.rmd,[062]T01_B01.rmd,[060]T01_A01.rmd,[094]T01_Bank01.rmd,[095]T01_GUILD_CRT.rmd,[153]GUILD_MATCH.rmd,[013]G13_D01_B01.rmd,[377]T01_N01.rmd"
+	},
+	"[001]G07.rmd": {
+		"mapName": "中央プラトン街道 / グレートフォレスト入口付近",
+		"mapType": 1,
+		"accessMap": "[341]M01.rmd,[010]G13.rmd,[002]G07_C01_B01.rmd,[003]G07_D01_B01.rmd,[129]G04.rmd"
+	},
+	"[002]G07_C01_B01.rmd": {
+		"mapName": "狼の巣窟",
+		"mapType": 1,
+		"accessMap": "[001]G07.rmd"
+	},
+	"[003]G07_D01_B01.rmd": {
+		"mapName": "旧レッドアイ研究所　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[001]G07.rmd,[004]G07_D01_B02.rmd"
+	},
+	"[004]G07_D01_B02.rmd": {
+		"mapName": "旧レッドアイ研究所　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[003]G07_D01_B01.rmd,[005]G07_D01_B03.rmd"
+	},
+	"[005]G07_D01_B03.rmd": {
+		"mapName": "旧レッドアイ研究所　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[004]G07_D01_B02.rmd"
+	},
+	"[006]G08.rmd": {
+		"mapName": "バヘル大河 / 北、東バヘル大河の交差地点",
+		"mapType": 1,
+		"accessMap": "[341]M01.rmd,[010]G13.rmd,[008]G08_C02_B01.rmd,[007]G08_C01_B01.rmd,[132]G14.rmd"
+	},
+	"[007]G08_C01_B01.rmd": {
+		"mapName": "蟲の洞穴",
+		"mapType": 1,
+		"accessMap": "[006]G08.rmd"
+	},
+	"[008]G08_C02_B01.rmd": {
+		"mapName": "オーガの巣窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[009]G08_C02_B02.rmd,[006]G08.rmd"
+	},
+	"[009]G08_C02_B02.rmd": {
+		"mapName": "オーガの巣窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[008]G08_C02_B01.rmd,[133]G09_C01_F01.rmd"
+	},
+	"[010]G13.rmd": {
+		"mapName": "中央プラトン街道 / ブルンネンシュティグ入口付近",
+		"mapType": 1,
+		"accessMap": "[000]T01.rmd,[001]G07.rmd,[006]G08.rmd,[011]G13_C01_B01.rmd,[013]G13_D01_B01.rmd"
+	},
+	"[011]G13_C01_B01.rmd": {
+		"mapName": "コボルトの洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[010]G13.rmd,[012]G13_C01_B02.rmd"
+	},
+	"[012]G13_C01_B02.rmd": {
+		"mapName": "コボルトの洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[011]G13_C01_B01.rmd"
+	},
+	"[013]G13_D01_B01.rmd": {
+		"mapName": "地下墓地　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[010]G13.rmd,[014]G13_D01_B02.rmd,[000]T01.rmd"
+	},
+	"[014]G13_D01_B02.rmd": {
+		"mapName": "地下墓地　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[013]G13_D01_B01.rmd,[015]G13_D01_B03.rmd"
+	},
+	"[015]G13_D01_B03.rmd": {
+		"mapName": "地下墓地　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[014]G13_D01_B02.rmd"
+	},
+	"[016]G16.rmd": {
+		"mapName": "東プラトン街道 / イースタンブリッジ付近",
+		"mapType": 1,
+		"accessMap": "[000]T01.rmd,[017]G16_D01_B01.rmd,[021]G16_D03_B01.rmd,[018]G16_D02_B01.rmd,[029]G15.rmd"
+	},
+	"[017]G16_D01_B01.rmd": {
+		"mapName": "枯れ井戸",
+		"mapType": 1,
+		"accessMap": "[016]G16.rmd"
+	},
+	"[018]G16_D02_B01.rmd": {
+		"mapName": "オート地下監獄　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[019]G16_D02_B02.rmd,[016]G16.rmd"
+	},
+	"[019]G16_D02_B02.rmd": {
+		"mapName": "オート地下監獄　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[018]G16_D02_B01.rmd,[020]G16_D02_B03.rmd"
+	},
+	"[020]G16_D02_B03.rmd": {
+		"mapName": "オート地下監獄　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[019]G16_D02_B02.rmd,[114]G16_D02_B04.rmd"
+	},
+	"[021]G16_D03_B01.rmd": {
+		"mapName": "アルパス地下監獄　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[016]G16.rmd,[022]G16_D03_B02.rmd"
+	},
+	"[022]G16_D03_B02.rmd": {
+		"mapName": "アルパス地下監獄　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[021]G16_D03_B01.rmd,[023]G16_D03_B03.rmd"
+	},
+	"[023]G16_D03_B03.rmd": {
+		"mapName": "アルパス地下監獄　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[022]G16_D03_B02.rmd"
+	},
+	"[024]G19.rmd": {
+		"mapName": "ギルディル川 / ナス橋付近",
+		"mapType": 1,
+		"accessMap": "[000]T01.rmd,[025]G19_C01_B01.rmd,[368]M16.rmd"
+	},
+	"[025]G19_C01_B01.rmd": {
+		"mapName": "ギルディル川　沼地洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[024]G19.rmd,[026]G19_C01_B02.rmd"
+	},
+	"[026]G19_C01_B02.rmd": {
+		"mapName": "ギルディル川　沼地洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[025]G19_C01_B01.rmd"
+	},
+	"[027]Prison.rmd": {
+		"mapName": "牢屋",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[028]Prison.rmd": {
+		"mapName": "ラウンジ",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[029]G15.rmd": {
+		"mapName": "東プラトン街道 / 道の中間地点",
+		"mapType": 1,
+		"accessMap": "[016]G16.rmd,[030]M19.rmd,[032]G15_D01_F01.rmd"
+	},
+	"[030]M19.rmd": {
+		"mapName": "東プラトン街道 / エルベルグ山脈 峠",
+		"mapType": 1,
+		"accessMap": "[029]G15.rmd,[031]M12.rmd,[036]T06.rmd,[047]M19_C01_B01.rmd,[055]M19_D01_F01.rmd,[068]G24.rmd"
+	},
+	"[031]M12.rmd": {
+		"mapName": "エルベルグ山脈 / ハノブ西部地域",
+		"mapType": 1,
+		"accessMap": "[030]M19.rmd,[037]M12_M01_B01.rmd,[131]G10.rmd,[278]M07.rmd"
+	},
+	"[032]G15_D01_F01.rmd": {
+		"mapName": "路上強盗団アジト　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[054]G15_D01_F02.rmd,[029]G15.rmd,[033]G15_D01_B01.rmd"
+	},
+	"[033]G15_D01_B01.rmd": {
+		"mapName": "路上強盗団アジト　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[034]G15_D01_B02.rmd,[032]G15_D01_F01.rmd"
+	},
+	"[034]G15_D01_B02.rmd": {
+		"mapName": "路上強盗団アジト　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[035]G15_D01_B03.rmd,[033]G15_D01_B01.rmd"
+	},
+	"[035]G15_D01_B03.rmd": {
+		"mapName": "路上強盗団アジト　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[034]G15_D01_B02.rmd"
+	},
+	"[036]T06.rmd": {
+		"mapName": "鉱山町ハノブ",
+		"mapType": 2,
+		"accessMap": "[068]G24.rmd,[063]T06_M01_B01.rmd,[030]M19.rmd,[119]T06_M02_F1.rmd,[116]T06_Bank01.rmd"
+	},
+	"[037]M12_M01_B01.rmd": {
+		"mapName": "廃坑　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[038]M12_M01_B02.rmd,[031]M12.rmd"
+	},
+	"[038]M12_M01_B02.rmd": {
+		"mapName": "廃坑　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[037]M12_M01_B01.rmd,[039]M12_M01_B03.rmd,[209]M12_M02_B1.rmd"
+	},
+	"[039]M12_M01_B03.rmd": {
+		"mapName": "廃坑　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[038]M12_M01_B02.rmd,[040]M12_M01_B04.rmd,[041]M12_M01_B05.rmd"
+	},
+	"[040]M12_M01_B04.rmd": {
+		"mapName": "廃坑　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[039]M12_M01_B03.rmd,[041]M12_M01_B05.rmd,[067]T06_M01_B05.rmd"
+	},
+	"[041]M12_M01_B05.rmd": {
+		"mapName": "廃坑　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[039]M12_M01_B03.rmd,[040]M12_M01_B04.rmd,[042]M12_M01_B06.rmd"
+	},
+	"[042]M12_M01_B06.rmd": {
+		"mapName": "廃坑　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[041]M12_M01_B05.rmd,[043]M12_M01_B07.rmd"
+	},
+	"[043]M12_M01_B07.rmd": {
+		"mapName": "廃坑　Ｂ７",
+		"mapType": 1,
+		"accessMap": "[042]M12_M01_B06.rmd,[044]M12_M01_B08.rmd"
+	},
+	"[044]M12_M01_B08.rmd": {
+		"mapName": "廃坑　Ｂ８",
+		"mapType": 1,
+		"accessMap": "[043]M12_M01_B07.rmd,[045]M12_M01_B09.rmd,[121]T06_M02_F3.rmd"
+	},
+	"[045]M12_M01_B09.rmd": {
+		"mapName": "廃坑　Ｂ９",
+		"mapType": 1,
+		"accessMap": "[044]M12_M01_B08.rmd,[046]M12_M01_B10.rmd"
+	},
+	"[046]M12_M01_B10.rmd": {
+		"mapName": "廃坑　Ｂ１０",
+		"mapType": 1,
+		"accessMap": "[045]M12_M01_B09.rmd"
+	},
+	"[047]M19_C01_B01.rmd": {
+		"mapName": "キャンサー気孔　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[048]M19_C01_B02.rmd,[030]M19.rmd"
+	},
+	"[048]M19_C01_B02.rmd": {
+		"mapName": "キャンサー気孔　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[049]M19_C01_B03.rmd,[047]M19_C01_B01.rmd"
+	},
+	"[049]M19_C01_B03.rmd": {
+		"mapName": "キャンサー気孔　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[050]M19_C01_B04.rmd,[048]M19_C01_B02.rmd"
+	},
+	"[050]M19_C01_B04.rmd": {
+		"mapName": "キャンサー気孔　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[049]M19_C01_B03.rmd,[051]M19_C01_B05.rmd"
+	},
+	"[051]M19_C01_B05.rmd": {
+		"mapName": "キャンサー気孔　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[050]M19_C01_B04.rmd,[052]M19_C01_B06.rmd"
+	},
+	"[052]M19_C01_B06.rmd": {
+		"mapName": "キャンサー気孔　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[053]M19_C01_B07.rmd,[051]M19_C01_B05.rmd"
+	},
+	"[053]M19_C01_B07.rmd": {
+		"mapName": "キャンサー気孔　Ｂ７",
+		"mapType": 1,
+		"accessMap": "[052]M19_C01_B06.rmd"
+	},
+	"[054]G15_D01_F02.rmd": {
+		"mapName": "路上強盗団アジト　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[032]G15_D01_F01.rmd"
+	},
+	"[055]M19_D01_F01.rmd": {
+		"mapName": "ハノブ高台望楼　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[030]M19.rmd,[057]M19_D01_B01.rmd,[056]M19_D01_F02.rmd"
+	},
+	"[056]M19_D01_F02.rmd": {
+		"mapName": "ハノブ高台望楼　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[055]M19_D01_F01.rmd"
+	},
+	"[057]M19_D01_B01.rmd": {
+		"mapName": "ハノブ高台望楼　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[058]M19_D01_B02.rmd,[055]M19_D01_F01.rmd"
+	},
+	"[058]M19_D01_B02.rmd": {
+		"mapName": "ハノブ高台望楼　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[057]M19_D01_B01.rmd,[059]M19_D01_B03.rmd"
+	},
+	"[059]M19_D01_B03.rmd": {
+		"mapName": "ハノブ高台望楼　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[058]M19_D01_B02.rmd"
+	},
+	"[060]T01_A01.rmd": {
+		"mapName": "ゼンシの防具店",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[061]T01_W01.rmd": {
+		"mapName": "ワリドの武器店",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[062]T01_B01.rmd": {
+		"mapName": "クリムスン商店",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[063]T06_M01_B01.rmd": {
+		"mapName": "鉄鉱山　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[064]T06_M01_B02.rmd,[036]T06.rmd,[067]T06_M01_B05.rmd"
+	},
+	"[064]T06_M01_B02.rmd": {
+		"mapName": "鉄鉱山　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[063]T06_M01_B01.rmd,[065]T06_M01_B03.rmd"
+	},
+	"[065]T06_M01_B03.rmd": {
+		"mapName": "鉄鉱山　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[064]T06_M01_B02.rmd,[066]T06_M01_B04.rmd"
+	},
+	"[066]T06_M01_B04.rmd": {
+		"mapName": "鉄鉱山　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[065]T06_M01_B03.rmd,[067]T06_M01_B05.rmd"
+	},
+	"[067]T06_M01_B05.rmd": {
+		"mapName": "鉄鉱山　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[040]M12_M01_B04.rmd,[066]T06_M01_B04.rmd,[063]T06_M01_B01.rmd"
+	},
+	"[068]G24.rmd": {
+		"mapName": "鉄の道 / ハノブ入口付近",
+		"mapType": 1,
+		"accessMap": "[036]T06.rmd,[030]M19.rmd,[069]G26.rmd,[204]M14.rmd,[096]G24_H01_F01.rmd"
+	},
+	"[069]G26.rmd": {
+		"mapName": "鉄の道 / 道の中間地点",
+		"mapType": 1,
+		"accessMap": "[068]G24.rmd,[070]G27.rmd,[075]G26_G01.rmd"
+	},
+	"[070]G27.rmd": {
+		"mapName": "鉄の道 / アウグスタ入口付近",
+		"mapType": 1,
+		"accessMap": "[071]T03.rmd,[101]G27_H01_F01.rmd,[069]G26.rmd"
+	},
+	"[071]T03.rmd": {
+		"mapName": "神聖都市アウグスタ",
+		"mapType": 2,
+		"accessMap": "[070]G27.rmd,[072]G29.rmd,[117]T03_Bank01.rmd,[425]T03_C01.rmd,[495]T03_C01_B01.rmd"
+	},
+	"[072]G29.rmd": {
+		"mapName": "テンドペンド平原 / ブンド川",
+		"mapType": 1,
+		"accessMap": "[127]G31.rmd,[071]T03.rmd,[073]G30.rmd"
+	},
+	"[073]G30.rmd": {
+		"mapName": "テンドペンド平原 / ブリッジヘッド北部地域",
+		"mapType": 1,
+		"accessMap": "[072]G29.rmd,[128]G32.rmd,[074]T04.rmd,[122]G30_C01_F01.rmd,[127]G31.rmd"
+	},
+	"[074]T04.rmd": {
+		"mapName": "港街ブリッジヘッド",
+		"mapType": 2,
+		"accessMap": "[073]G30.rmd,[105]T04_H01_F01.rmd,[107]T04_H02_F01.rmd,[110]T04_H03_F01.rmd,[118]T04_Bank01.rmd,[128]G32.rmd,[416]T04_H04_F01.rmd,[503] T04_I01.rmd"
+	},
+	"[075]G26_G01.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[069]G26.rmd,[076]G26_G02.rmd,[115]G26_D01.rmd"
+	},
+	"[076]G26_G02.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[075]G26_G01.rmd,[085]G26_G11.rmd,[079]G26_G05.rmd"
+	},
+	"[077]G26_G03.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[080]G26_G06.rmd,[078]G26_G04.rmd"
+	},
+	"[078]G26_G04.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[077]G26_G03.rmd,[079]G26_G05.rmd"
+	},
+	"[079]G26_G05.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[078]G26_G04.rmd,[076]G26_G02.rmd,[080]G26_G06.rmd"
+	},
+	"[080]G26_G06.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[077]G26_G03.rmd,[081]G26_G07.rmd,[079]G26_G05.rmd"
+	},
+	"[081]G26_G07.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[080]G26_G06.rmd,[086]G26_G12.rmd,[082]G26_G08.rmd"
+	},
+	"[082]G26_G08.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[081]G26_G07.rmd,[085]G26_G11.rmd,[083]G26_G09.rmd"
+	},
+	"[083]G26_G09.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[082]G26_G08.rmd,[084]G26_G10.rmd"
+	},
+	"[084]G26_G10.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[083]G26_G09.rmd,[093]G26_C01.rmd"
+	},
+	"[085]G26_G11.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[082]G26_G08.rmd,[076]G26_G02.rmd"
+	},
+	"[086]G26_G12.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[081]G26_G07.rmd"
+	},
+	"[087]G26_G13.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[093]G26_C01.rmd,[088]G26_G14.rmd,[092]G26_G18.rmd"
+	},
+	"[088]G26_G14.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[087]G26_G13.rmd,[089]G26_G15.rmd"
+	},
+	"[089]G26_G15.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[088]G26_G14.rmd,[090]G26_G16.rmd,[092]G26_G18.rmd"
+	},
+	"[090]G26_G16.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[089]G26_G15.rmd,[091]G26_G17.rmd,[092]G26_G18.rmd"
+	},
+	"[091]G26_G17.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[092]G26_G18.rmd,[090]G26_G16.rmd,[115]G26_D01.rmd"
+	},
+	"[092]G26_G18.rmd": {
+		"mapName": "やぶ森の中",
+		"mapType": 1,
+		"accessMap": "[115]G26_D01.rmd,[091]G26_G17.rmd,[090]G26_G16.rmd,[087]G26_G13.rmd,[089]G26_G15.rmd"
+	},
+	"[093]G26_C01.rmd": {
+		"mapName": "滝裏の洞窟",
+		"mapType": 1,
+		"accessMap": "[084]G26_G10.rmd,[087]G26_G13.rmd"
+	},
+	"[094]T01_Bank01.rmd": {
+		"mapName": "ブルンネンシュティグ銀行",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[095]T01_GUILD_CRT.rmd": {
+		"mapName": "ブルンギルド連合会",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[096]G24_H01_F01.rmd": {
+		"mapName": "ハノブ南側望楼　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[068]G24.rmd,[097]G24_H01_F02.rmd,[098]G24_H01_B01.rmd"
+	},
+	"[097]G24_H01_F02.rmd": {
+		"mapName": "ハノブ南側望楼　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[096]G24_H01_F01.rmd"
+	},
+	"[098]G24_H01_B01.rmd": {
+		"mapName": "ハノブ南側望楼　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[096]G24_H01_F01.rmd,[099]G24_H01_B02.rmd"
+	},
+	"[099]G24_H01_B02.rmd": {
+		"mapName": "ハノブ南側望楼　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[098]G24_H01_B01.rmd,[100]G24_H01_B03.rmd"
+	},
+	"[100]G24_H01_B03.rmd": {
+		"mapName": "ハノブ南側望楼　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[099]G24_H01_B02.rmd"
+	},
+	"[101]G27_H01_F01.rmd": {
+		"mapName": "麻薬巣窟　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[070]G27.rmd,[102]G27_H01_B01.rmd"
+	},
+	"[102]G27_H01_B01.rmd": {
+		"mapName": "麻薬巣窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[101]G27_H01_F01.rmd,[103]G27_H01_B02.rmd"
+	},
+	"[103]G27_H01_B02.rmd": {
+		"mapName": "麻薬巣窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[102]G27_H01_B01.rmd,[104]G27_H01_B03.rmd"
+	},
+	"[104]G27_H01_B03.rmd": {
+		"mapName": "麻薬巣窟　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[103]G27_H01_B02.rmd"
+	},
+	"[105]T04_H01_F01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ａ]　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[074]T04.rmd,[106]T04_H01_B01.rmd"
+	},
+	"[106]T04_H01_B01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ａ]　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[105]T04_H01_F01.rmd"
+	},
+	"[107]T04_H02_F01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｂ]　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[074]T04.rmd,[108]T04_H02_B01.rmd"
+	},
+	"[108]T04_H02_B01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｂ]　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[107]T04_H02_F01.rmd,[109]T04_H02_B02.rmd"
+	},
+	"[109]T04_H02_B02.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｂ]　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[108]T04_H02_B01.rmd"
+	},
+	"[110]T04_H03_F01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｃ]　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[074]T04.rmd,[111]T04_H03_B01.rmd"
+	},
+	"[111]T04_H03_B01.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｃ]　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[110]T04_H03_F01.rmd,[112]T04_H03_B02.rmd"
+	},
+	"[112]T04_H03_B02.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｃ]　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[113]T04_H03_B03.rmd,[111]T04_H03_B01.rmd"
+	},
+	"[113]T04_H03_B03.rmd": {
+		"mapName": "シーフギルドの倉庫[Ｃ]　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[112]T04_H03_B02.rmd"
+	},
+	"[114]G16_D02_B04.rmd": {
+		"mapName": "オート地下監獄　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[020]G16_D02_B03.rmd"
+	},
+	"[115]G26_D01.rmd": {
+		"mapName": "時のダンジョン",
+		"mapType": 1,
+		"accessMap": "[075]G26_G01.rmd"
+	},
+	"[116]T06_Bank01.rmd": {
+		"mapName": "ハノブ銀行",
+		"mapType": 3,
+		"accessMap": "[036]T06.rmd"
+	},
+	"[117]T03_Bank01.rmd": {
+		"mapName": "アウグスタ銀行",
+		"mapType": 3,
+		"accessMap": "[071]T03.rmd"
+	},
+	"[118]T04_Bank01.rmd": {
+		"mapName": "ブリッジヘッド銀行",
+		"mapType": 3,
+		"accessMap": "[074]T04.rmd"
+	},
+	"[119]T06_M02_F1.rmd": {
+		"mapName": "ミスリル鉱山　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[036]T06.rmd,[120]T06_M02_F2.rmd"
+	},
+	"[120]T06_M02_F2.rmd": {
+		"mapName": "ミスリル鉱山　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[119]T06_M02_F1.rmd,[121]T06_M02_F3.rmd"
+	},
+	"[121]T06_M02_F3.rmd": {
+		"mapName": "ミスリル鉱山　３Ｆ",
+		"mapType": 1,
+		"accessMap": "[120]T06_M02_F2.rmd,[044]M12_M01_B08.rmd"
+	},
+	"[122]G30_C01_F01.rmd": {
+		"mapName": "海の神殿入口",
+		"mapType": 1,
+		"accessMap": "[073]G30.rmd,[123]G30_H01_F01.rmd"
+	},
+	"[123]G30_H01_F01.rmd": {
+		"mapName": "海の神殿　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[122]G30_C01_F01.rmd,[124]G30_H01_B01.rmd"
+	},
+	"[124]G30_H01_B01.rmd": {
+		"mapName": "海の神殿　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[123]G30_H01_F01.rmd,[125]G30_H01_B02.rmd"
+	},
+	"[125]G30_H01_B02.rmd": {
+		"mapName": "海の神殿　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[124]G30_H01_B01.rmd,[126]G30_H01_B03.rmd"
+	},
+	"[126]G30_H01_B03.rmd": {
+		"mapName": "海の神殿　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[125]G30_H01_B02.rmd,[151]G30_H01_B04.rmd"
+	},
+	"[127]G31.rmd": {
+		"mapName": "テンドペンド平原 / トワイライト滝付近",
+		"mapType": 1,
+		"accessMap": "[073]G30.rmd,[142]G31_C02_F01.rmd,[072]G29.rmd,[280]D17.rmd,[135]G31_C01_F01.rmd,[128]G32.rmd"
+	},
+	"[128]G32.rmd": {
+		"mapName": "ルリリバー / 川河口",
+		"mapType": 1,
+		"accessMap": "[074]T04.rmd,[280]D17.rmd,[073]G30.rmd,[127]G31.rmd"
+	},
+	"[129]G04.rmd": {
+		"mapName": "グレートフォレスト / プラトン街道",
+		"mapType": 1,
+		"accessMap": "[168]D03.rmd,[324]G06.rmd,[341]M01.rmd,[353]G01.rmd,[000]T01.rmd,[001]G07.rmd,[156]D06.rmd,[358]G04_D01_B01.rmd"
+	},
+	"[130]G09.rmd": {
+		"mapName": "バヘル大河 / 東バヘル川",
+		"mapType": 1,
+		"accessMap": "[132]G14.rmd,[131]G10.rmd,[133]G09_C01_F01.rmd,[278]M07.rmd"
+	},
+	"[131]G10.rmd": {
+		"mapName": "バヘル台地 / エルベルグ山脈西部地域",
+		"mapType": 1,
+		"accessMap": "[130]G09.rmd,[031]M12.rmd,[278]M07.rmd"
+	},
+	"[132]G14.rmd": {
+		"mapName": "バヘル台地 / 丸太いかだ丘",
+		"mapType": 1,
+		"accessMap": "[006]G08.rmd,[130]G09.rmd"
+	},
+	"[133]G09_C01_F01.rmd": {
+		"mapName": "オーガの王窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[009]G08_C02_B02.rmd,[130]G09.rmd"
+	},
+	"[134]G31_D01_F01.rmd": {
+		"mapName": "壊れた道",
+		"mapType": 1,
+		"accessMap": "[148]G31_C02_B06.rmd,[141]G31_C01_B06.rmd"
+	},
+	"[135]G31_C01_F01.rmd": {
+		"mapName": "トワイライト滝　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[127]G31.rmd,[136]G31_C01_B01.rmd"
+	},
+	"[136]G31_C01_B01.rmd": {
+		"mapName": "トワイライト滝　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[135]G31_C01_F01.rmd,[137]G31_C01_B02.rmd"
+	},
+	"[137]G31_C01_B02.rmd": {
+		"mapName": "トワイライト滝　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[136]G31_C01_B01.rmd,[138]G31_C01_B03.rmd"
+	},
+	"[138]G31_C01_B03.rmd": {
+		"mapName": "トワイライト滝　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[137]G31_C01_B02.rmd,[139]G31_C01_B04.rmd"
+	},
+	"[139]G31_C01_B04.rmd": {
+		"mapName": "トワイライト滝　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[138]G31_C01_B03.rmd,[140]G31_C01_B05.rmd"
+	},
+	"[140]G31_C01_B05.rmd": {
+		"mapName": "トワイライト滝　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[139]G31_C01_B04.rmd,[141]G31_C01_B06.rmd"
+	},
+	"[141]G31_C01_B06.rmd": {
+		"mapName": "トワイライト滝　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[140]G31_C01_B05.rmd,[134]G31_D01_F01.rmd"
+	},
+	"[142]G31_C02_F01.rmd": {
+		"mapName": "ソルティケーブ　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[127]G31.rmd,[143]G31_C02_B01.rmd"
+	},
+	"[143]G31_C02_B01.rmd": {
+		"mapName": "ソルティケーブ　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[142]G31_C02_F01.rmd,[144]G31_C02_B02.rmd"
+	},
+	"[144]G31_C02_B02.rmd": {
+		"mapName": "ソルティケーブ　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[143]G31_C02_B01.rmd,[145]G31_C02_B03.rmd"
+	},
+	"[145]G31_C02_B03.rmd": {
+		"mapName": "ソルティケーブ　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[144]G31_C02_B02.rmd,[146]G31_C02_B04.rmd"
+	},
+	"[146]G31_C02_B04.rmd": {
+		"mapName": "ソルティケーブ　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[145]G31_C02_B03.rmd,[147]G31_C02_B05.rmd"
+	},
+	"[147]G31_C02_B05.rmd": {
+		"mapName": "ソルティケーブ　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[146]G31_C02_B04.rmd,[148]G31_C02_B06.rmd"
+	},
+	"[148]G31_C02_B06.rmd": {
+		"mapName": "ソルティケーブ　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[147]G31_C02_B05.rmd,[149]G31_C02_B07.rmd,[134]G31_D01_F01.rmd"
+	},
+	"[149]G31_C02_B07.rmd": {
+		"mapName": "ソルティケーブ　Ｂ７",
+		"mapType": 1,
+		"accessMap": "[150]G31_C02_B08.rmd,[148]G31_C02_B06.rmd"
+	},
+	"[150]G31_C02_B08.rmd": {
+		"mapName": "ソルティケーブ　Ｂ８",
+		"mapType": 1,
+		"accessMap": "[149]G31_C02_B07.rmd"
+	},
+	"[151]G30_H01_B04.rmd": {
+		"mapName": "海の神殿　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[126]G30_H01_B03.rmd"
+	},
+	"[152]T01_D01_B01.rmd": {
+		"mapName": "地下水路　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[000]T01.rmd,[412]T01_D01_B02.rmd"
+	},
+	"[153]GUILD_MATCH.rmd": {
+		"mapName": "ブルンネンシュティグギルド戦　申込事務室",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[154]D01.rmd": {
+		"mapName": "西プラトン街道 / アリアン東部地域",
+		"mapType": 1,
+		"accessMap": "[419]D01_S01_B01.rmd,[171]T18.rmd,[155]D02.rmd,[169]D05.rmd,[193]T08.rmd"
+	},
+	"[155]D02.rmd": {
+		"mapName": "ガディウス大砂漠 / リンケン北部地域",
+		"mapType": 1,
+		"accessMap": "[157]D02_D01_B01.rmd,[159]D02_D02_B01.rmd,[161]D02_D03_B01.rmd,[163]D02_D04_B01.rmd,[165]D02_D05_B01.rmd,[154]D01.rmd,[168]D03.rmd"
+	},
+	"[156]D06.rmd": {
+		"mapName": "西プラトン街道 / グレートフォレスト入口",
+		"mapType": 1,
+		"accessMap": "[427]D81.rmd,[322]D08.rmd,[129]G04.rmd,[171]T18.rmd"
+	},
+	"[157]D02_D01_B01.rmd": {
+		"mapName": "警備兵墓　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[155]D02.rmd,[158]D02_D01_B02.rmd"
+	},
+	"[158]D02_D01_B02.rmd": {
+		"mapName": "警備兵墓　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[157]D02_D01_B01.rmd,[167]D02_D06_B01.rmd"
+	},
+	"[159]D02_D02_B01.rmd": {
+		"mapName": "魔法傭兵の墓　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[155]D02.rmd,[160]D02_D02_B02.rmd"
+	},
+	"[160]D02_D02_B02.rmd": {
+		"mapName": "魔法傭兵の墓　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[159]D02_D02_B01.rmd,[167]D02_D06_B01.rmd"
+	},
+	"[161]D02_D03_B01.rmd": {
+		"mapName": "傭兵達の大きな墓　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[155]D02.rmd,[162]D02_D03_B02.rmd"
+	},
+	"[162]D02_D03_B02.rmd": {
+		"mapName": "傭兵達の大きな墓　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[161]D02_D03_B01.rmd,[167]D02_D06_B01.rmd"
+	},
+	"[163]D02_D04_B01.rmd": {
+		"mapName": "呪いの墓　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[155]D02.rmd,[164]D02_D04_B02.rmd"
+	},
+	"[164]D02_D04_B02.rmd": {
+		"mapName": "呪いの墓　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[163]D02_D04_B01.rmd"
+	},
+	"[165]D02_D05_B01.rmd": {
+		"mapName": "小さい傭兵の墓　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[155]D02.rmd,[166]D02_D05_B02.rmd"
+	},
+	"[166]D02_D05_B02.rmd": {
+		"mapName": "小さい傭兵の墓　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[165]D02_D05_B01.rmd,[167]D02_D06_B01.rmd"
+	},
+	"[167]D02_D06_B01.rmd": {
+		"mapName": "過ぎた栄光の展示場",
+		"mapType": 1,
+		"accessMap": "[158]D02_D01_B02.rmd,[162]D02_D03_B02.rmd,[160]D02_D02_B02.rmd,[166]D02_D05_B02.rmd"
+	},
+	"[168]D03.rmd": {
+		"mapName": "ガディウス大砂漠 / グレートフォレスト北部地域",
+		"mapType": 1,
+		"accessMap": "[129]G04.rmd,[155]D02.rmd,[170]D03_D01_B01.rmd"
+	},
+	"[169]D05.rmd": {
+		"mapName": "ガディウス大砂漠 / デフヒルズ北側",
+		"mapType": 1,
+		"accessMap": "[154]D01.rmd,[181]D05_S01_F01.rmd,[364]D07.rmd,[426]D05_D01_B01.rmd"
+	},
+	"[170]D03_D01_B01.rmd": {
+		"mapName": "セスナの道",
+		"mapType": 1,
+		"accessMap": "[168]D03.rmd"
+	},
+	"[171]T18.rmd": {
+		"mapName": "砂漠村リンケン",
+		"mapType": 2,
+		"accessMap": "[172]T18_I01.rmd,[156]D06.rmd,[154]D01.rmd,[201]T18_J01.rmd,[002]G07_C01_B01.rmd"
+	},
+	"[172]T18_I01.rmd": {
+		"mapName": "砂漠の炎 旅館",
+		"mapType": 3,
+		"accessMap": "[173]T18_I02.rmd,[171]T18.rmd"
+	},
+	"[173]T18_I02.rmd": {
+		"mapName": "砂漠の炎 旅館２階",
+		"mapType": 3,
+		"accessMap": "[172]T18_I01.rmd"
+	},
+	"[174]D05_S01_B07.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ７",
+		"mapType": 1,
+		"accessMap": "[175]D05_S01_B06.rmd"
+	},
+	"[175]D05_S01_B06.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[174]D05_S01_B07.rmd,[176]D05_S01_B05.rmd"
+	},
+	"[176]D05_S01_B05.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[175]D05_S01_B06.rmd,[177]D05_S01_B04.rmd"
+	},
+	"[177]D05_S01_B04.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[176]D05_S01_B05.rmd,[178]D05_S01_B03.rmd"
+	},
+	"[178]D05_S01_B03.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[177]D05_S01_B04.rmd,[179]D05_S01_B02.rmd"
+	},
+	"[179]D05_S01_B02.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[180]D05_S01_B01.rmd,[178]D05_S01_B03.rmd"
+	},
+	"[180]D05_S01_B01.rmd": {
+		"mapName": "名も無い崩れた塔　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[181]D05_S01_F01.rmd,[179]D05_S01_B02.rmd"
+	},
+	"[181]D05_S01_F01.rmd": {
+		"mapName": "名も無い崩れた塔　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[169]D05.rmd,[182]D05_S01_F02.rmd,[180]D05_S01_B01.rmd"
+	},
+	"[182]D05_S01_F02.rmd": {
+		"mapName": "名も無い崩れた塔　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[181]D05_S01_F01.rmd,[183]D05_S01_F03.rmd"
+	},
+	"[183]D05_S01_F03.rmd": {
+		"mapName": "名も無い崩れた塔　３Ｆ",
+		"mapType": 1,
+		"accessMap": "[184]D05_S01_F04.rmd,[182]D05_S01_F02.rmd"
+	},
+	"[184]D05_S01_F04.rmd": {
+		"mapName": "名も無い崩れた塔　４Ｆ",
+		"mapType": 1,
+		"accessMap": "[185]D05_S01_F05.rmd,[183]D05_S01_F03.rmd"
+	},
+	"[185]D05_S01_F05.rmd": {
+		"mapName": "名も無い崩れた塔　５Ｆ",
+		"mapType": 1,
+		"accessMap": "[186]D05_S01_F06.rmd,[184]D05_S01_F04.rmd"
+	},
+	"[186]D05_S01_F06.rmd": {
+		"mapName": "名も無い崩れた塔　６Ｆ",
+		"mapType": 1,
+		"accessMap": "[187]D05_S01_F07.rmd,[185]D05_S01_F05.rmd"
+	},
+	"[187]D05_S01_F07.rmd": {
+		"mapName": "名も無い崩れた塔　７Ｆ",
+		"mapType": 1,
+		"accessMap": "[188]D05_S01_F08.rmd,[186]D05_S01_F06.rmd"
+	},
+	"[188]D05_S01_F08.rmd": {
+		"mapName": "名も無い崩れた塔　８Ｆ",
+		"mapType": 1,
+		"accessMap": "[187]D05_S01_F07.rmd,[189]D05_S01_F09.rmd"
+	},
+	"[189]D05_S01_F09.rmd": {
+		"mapName": "名も無い崩れた塔　９Ｆ",
+		"mapType": 1,
+		"accessMap": "[188]D05_S01_F08.rmd,[190]D05_S01_F10.rmd"
+	},
+	"[190]D05_S01_F10.rmd": {
+		"mapName": "名も無い崩れた塔　１０Ｆ",
+		"mapType": 1,
+		"accessMap": "[189]D05_S01_F09.rmd,[191]D05_S01_F11.rmd"
+	},
+	"[191]D05_S01_F11.rmd": {
+		"mapName": "名も無い崩れた塔　１１Ｆ",
+		"mapType": 1,
+		"accessMap": "[190]D05_S01_F10.rmd,[192]D05_S01_F12.rmd"
+	},
+	"[192]D05_S01_F12.rmd": {
+		"mapName": "名も無い崩れた塔　１２Ｆ",
+		"mapType": 1,
+		"accessMap": "[191]D05_S01_F11.rmd"
+	},
+	"[193]T08.rmd": {
+		"mapName": "オアシス都市アリアン",
+		"mapType": 2,
+		"accessMap": "[194]T08_V01.rmd,[195]T08_GUILD_CRT.rmd,[196]T08_S01_B01.rmd,[198]T08_K01.rmd,[199]T08_K02.rmd,[200]T08_I01.rmd,[202]T08_BANK01.rmd,[203]T08_H01.rmd,[154]D01.rmd,[000]T01.rmd"
+	},
+	"[194]T08_V01.rmd": {
+		"mapName": "砂風酒場",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[195]T08_GUILD_CRT.rmd": {
+		"mapName": "アリアン傭兵ギルド",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[196]T08_S01_B01.rmd": {
+		"mapName": "アリアン遺跡　Ｂ１ ",
+		"mapType": 1,
+		"accessMap": "[197]T08_S01_B02.rmd,[193]T08.rmd"
+	},
+	"[197]T08_S01_B02.rmd": {
+		"mapName": "アリアン遺跡　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[196]T08_S01_B01.rmd"
+	},
+	"[198]T08_K01.rmd": {
+		"mapName": "一般倉庫",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[199]T08_K02.rmd": {
+		"mapName": "大富豪の倉庫 ",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[200]T08_I01.rmd": {
+		"mapName": "冒険家協会アリアン支部 / アリアン旅館",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[201]T18_J01.rmd": {
+		"mapName": "リンケン 宝石商",
+		"mapType": 3,
+		"accessMap": "[171]T18.rmd"
+	},
+	"[202]T08_BANK01.rmd": {
+		"mapName": "アリアン銀行",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[203]T08_H01.rmd": {
+		"mapName": "トゥーファの家",
+		"mapType": 3,
+		"accessMap": "[193]T08.rmd"
+	},
+	"[204]M14.rmd": {
+		"mapName": "ヘムクロス高原 / 高原南部地域",
+		"mapType": 1,
+		"accessMap": "[068]G24.rmd,[205]M10.rmd,[214]T11.rmd"
+	},
+	"[205]M10.rmd": {
+		"mapName": "ヘムクロス高原 / アラク湖付近",
+		"mapType": 1,
+		"accessMap": "[204]M14.rmd,[212]M10_C01_B01.rmd,[213]M10_D01_B01.rmd,[206]M09.rmd,[232]M10_S01_F01.rmd"
+	},
+	"[206]M09.rmd": {
+		"mapName": "タトバ山",
+		"mapType": 1,
+		"accessMap": "[211]M09_M01_B1.rmd,[205]M10.rmd,[207]M80.rmd,[259]M11.rmd"
+	},
+	"[207]M80.rmd": {
+		"mapName": "タトバ山頂上登山路",
+		"mapType": 1,
+		"accessMap": "[206]M09.rmd,[208]M80_D01_F1.rmd"
+	},
+	"[208]M80_D01_F1.rmd": {
+		"mapName": "キングベアーの巣",
+		"mapType": 1,
+		"accessMap": "[207]M80.rmd"
+	},
+	"[209]M12_M02_B1.rmd": {
+		"mapName": "パブル鉱山　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[210]M12_M02_B2.rmd,[038]M12_M01_B02.rmd"
+	},
+	"[210]M12_M02_B2.rmd": {
+		"mapName": "パブル鉱山　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[209]M12_M02_B1.rmd,[211]M09_M01_B1.rmd"
+	},
+	"[211]M09_M01_B1.rmd": {
+		"mapName": "タトバ鉱山　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[210]M12_M02_B2.rmd,[206]M09.rmd"
+	},
+	"[212]M10_C01_B01.rmd": {
+		"mapName": "タワー洞窟地下道　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[205]M10.rmd"
+	},
+	"[213]M10_D01_B01.rmd": {
+		"mapName": "タワー洞窟地下道　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[205]M10.rmd"
+	},
+	"[214]T11.rmd": {
+		"mapName": "魔法都市スマグ",
+		"mapType": 2,
+		"accessMap": "[251]T11_L01.rmd,[256]T11_B01.rmd,[253]T11_E01.rmd,[255]T11_GUILD_CRT.rmd,[257]T11_I01.rmd,[252]T11_V01.rmd,[254]T11_P01.rmd,[204]M14.rmd"
+	},
+	"[215]T11_D01_B01.rmd": {
+		"mapName": "スマグ地下道　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[216]T11_D01_B02.rmd"
+	},
+	"[216]T11_D01_B02.rmd": {
+		"mapName": "スマグ地下道　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[217]T11_D01_B03.rmd,[218]T11_D01_B04.rmd,[215]T11_D01_B01.rmd"
+	},
+	"[217]T11_D01_B03.rmd": {
+		"mapName": "スマグ地下道　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[216]T11_D01_B02.rmd"
+	},
+	"[218]T11_D01_B04.rmd": {
+		"mapName": "スマグ地下道　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[216]T11_D01_B02.rmd"
+	},
+	"[219]M10_S01_B13.rmd": {
+		"mapName": "スウェブタワー　Ｂ１３",
+		"mapType": 1,
+		"accessMap": "[220]M10_S01_B12.rmd"
+	},
+	"[220]M10_S01_B12.rmd": {
+		"mapName": "スウェブタワー　Ｂ１２",
+		"mapType": 1,
+		"accessMap": "[221]M10_S01_B11.rmd,[219]M10_S01_B13.rmd"
+	},
+	"[221]M10_S01_B11.rmd": {
+		"mapName": "スウェブタワー　Ｂ１１",
+		"mapType": 1,
+		"accessMap": "[222]M10_S01_B10.rmd,[220]M10_S01_B12.rmd"
+	},
+	"[222]M10_S01_B10.rmd": {
+		"mapName": "スウェブタワー　Ｂ１０",
+		"mapType": 1,
+		"accessMap": "[223]M10_S01_B09.rmd,[221]M10_S01_B11.rmd"
+	},
+	"[223]M10_S01_B09.rmd": {
+		"mapName": "スウェブタワー　Ｂ９",
+		"mapType": 1,
+		"accessMap": "[224]M10_S01_B08.rmd,[222]M10_S01_B10.rmd"
+	},
+	"[224]M10_S01_B08.rmd": {
+		"mapName": "スウェブタワー　Ｂ８",
+		"mapType": 1,
+		"accessMap": "[223]M10_S01_B09.rmd,[225]M10_S01_B07.rmd"
+	},
+	"[225]M10_S01_B07.rmd": {
+		"mapName": "スウェブタワー　Ｂ７",
+		"mapType": 1,
+		"accessMap": "[226]M10_S01_B06.rmd,[224]M10_S01_B08.rmd"
+	},
+	"[226]M10_S01_B06.rmd": {
+		"mapName": "スウェブタワー　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[225]M10_S01_B07.rmd,[227]M10_S01_B05.rmd"
+	},
+	"[227]M10_S01_B05.rmd": {
+		"mapName": "スウェブタワー　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[228]M10_S01_B04.rmd,[226]M10_S01_B06.rmd"
+	},
+	"[228]M10_S01_B04.rmd": {
+		"mapName": "スウェブタワー　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[229]M10_S01_B03.rmd,[227]M10_S01_B05.rmd"
+	},
+	"[229]M10_S01_B03.rmd": {
+		"mapName": "スウェブタワー　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[230]M10_S01_B02.rmd,[228]M10_S01_B04.rmd"
+	},
+	"[230]M10_S01_B02.rmd": {
+		"mapName": "スウェブタワー　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[231]M10_S01_B01.rmd,[229]M10_S01_B03.rmd"
+	},
+	"[231]M10_S01_B01.rmd": {
+		"mapName": "スウェブタワー　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[232]M10_S01_F01.rmd,[230]M10_S01_B02.rmd"
+	},
+	"[232]M10_S01_F01.rmd": {
+		"mapName": "スウェブタワー　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[205]M10.rmd,[233]M10_S01_F02.rmd,[231]M10_S01_B01.rmd"
+	},
+	"[233]M10_S01_F02.rmd": {
+		"mapName": "スウェブタワー　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[232]M10_S01_F01.rmd,[234]M10_S01_F03.rmd"
+	},
+	"[234]M10_S01_F03.rmd": {
+		"mapName": "スウェブタワー　３Ｆ",
+		"mapType": 1,
+		"accessMap": "[233]M10_S01_F02.rmd,[235]M10_S01_F04.rmd"
+	},
+	"[235]M10_S01_F04.rmd": {
+		"mapName": "スウェブタワー　４Ｆ",
+		"mapType": 1,
+		"accessMap": "[234]M10_S01_F03.rmd,[236]M10_S01_F05.rmd"
+	},
+	"[236]M10_S01_F05.rmd": {
+		"mapName": "スウェブタワー　５Ｆ",
+		"mapType": 1,
+		"accessMap": "[235]M10_S01_F04.rmd,[237]M10_S01_F06.rmd"
+	},
+	"[237]M10_S01_F06.rmd": {
+		"mapName": "スウェブタワー　６Ｆ",
+		"mapType": 1,
+		"accessMap": "[236]M10_S01_F05.rmd,[238]M10_S01_F07.rmd"
+	},
+	"[238]M10_S01_F07.rmd": {
+		"mapName": "スウェブタワー　７Ｆ",
+		"mapType": 1,
+		"accessMap": "[237]M10_S01_F06.rmd,[239]M10_S01_F08.rmd"
+	},
+	"[239]M10_S01_F08.rmd": {
+		"mapName": "スウェブタワー　８Ｆ",
+		"mapType": 1,
+		"accessMap": "[238]M10_S01_F07.rmd,[240]M10_S01_F09.rmd"
+	},
+	"[240]M10_S01_F09.rmd": {
+		"mapName": "スウェブタワー　９Ｆ",
+		"mapType": 1,
+		"accessMap": "[239]M10_S01_F08.rmd,[241]M10_S01_F10.rmd"
+	},
+	"[241]M10_S01_F10.rmd": {
+		"mapName": "スウェブタワー　１０Ｆ",
+		"mapType": 1,
+		"accessMap": "[240]M10_S01_F09.rmd,[242]M10_S01_F11.rmd"
+	},
+	"[242]M10_S01_F11.rmd": {
+		"mapName": "スウェブタワー　１１Ｆ",
+		"mapType": 1,
+		"accessMap": "[241]M10_S01_F10.rmd,[243]M10_S01_F12.rmd"
+	},
+	"[243]M10_S01_F12.rmd": {
+		"mapName": "スウェブタワー　１２Ｆ",
+		"mapType": 1,
+		"accessMap": "[242]M10_S01_F11.rmd,[244]M10_S01_F13.rmd"
+	},
+	"[244]M10_S01_F13.rmd": {
+		"mapName": "スウェブタワー　１３Ｆ",
+		"mapType": 1,
+		"accessMap": "[243]M10_S01_F12.rmd,[245]M10_S01_F14.rmd"
+	},
+	"[245]M10_S01_F14.rmd": {
+		"mapName": "スウェブタワー　１４Ｆ",
+		"mapType": 1,
+		"accessMap": "[244]M10_S01_F13.rmd,[246]M10_S01_F15.rmd"
+	},
+	"[246]M10_S01_F15.rmd": {
+		"mapName": "スウェブタワー　１５Ｆ",
+		"mapType": 1,
+		"accessMap": "[245]M10_S01_F14.rmd,[247]M10_S01_F16.rmd"
+	},
+	"[247]M10_S01_F16.rmd": {
+		"mapName": "スウェブタワー　１６Ｆ",
+		"mapType": 1,
+		"accessMap": "[246]M10_S01_F15.rmd,[248]M10_S01_F17.rmd"
+	},
+	"[248]M10_S01_F17.rmd": {
+		"mapName": "スウェブタワー　１７Ｆ",
+		"mapType": 1,
+		"accessMap": "[247]M10_S01_F16.rmd,[249]M10_S01_F18.rmd"
+	},
+	"[249]M10_S01_F18.rmd": {
+		"mapName": "スウェブタワー　１８Ｆ",
+		"mapType": 1,
+		"accessMap": "[248]M10_S01_F17.rmd,[250]M10_S01_F19.rmd"
+	},
+	"[250]M10_S01_F19.rmd": {
+		"mapName": "スウェブタワー　１９Ｆ",
+		"mapType": 1,
+		"accessMap": "[249]M10_S01_F18.rmd,[258]M10_S01_F20.rmd"
+	},
+	"[251]T11_L01.rmd": {
+		"mapName": "スマグ魔法用品店",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[252]T11_V01.rmd": {
+		"mapName": "グローティング酒場",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[253]T11_E01.rmd": {
+		"mapName": "スマグアクセサリー店",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[254]T11_P01.rmd": {
+		"mapName": "ウィザードの研究室",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[255]T11_GUILD_CRT.rmd": {
+		"mapName": "ウィザードギルド",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[256]T11_B01.rmd": {
+		"mapName": "スマグ雑貨店",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[257]T11_I01.rmd": {
+		"mapName": "冒険家協会スマグ支部 / スマグ旅館",
+		"mapType": 3,
+		"accessMap": "[214]T11.rmd"
+	},
+	"[258]M10_S01_F20.rmd": {
+		"mapName": "スウェブタワー　２０Ｆ",
+		"mapType": 1,
+		"accessMap": "[250]M10_S01_F19.rmd,[411]M10_S01_F21.rmd"
+	},
+	"[259]M11.rmd": {
+		"mapName": "ハンヒ山脈 / ドレム川付近",
+		"mapType": 1,
+		"accessMap": "[266]M11_C04_B01.rmd,[265]M11_C03_B01.rmd,[263]M11_C02_B01.rmd,[260]M11_C01_B01.rmd,[206]M09.rmd,[268]P01.rmd"
+	},
+	"[260]M11_C01_B01.rmd": {
+		"mapName": "河口ダンジョン　'ド'　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[259]M11.rmd,[261]M11_C01_B02.rmd"
+	},
+	"[261]M11_C01_B02.rmd": {
+		"mapName": "河口ダンジョン　'ド'　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[260]M11_C01_B01.rmd,[262]M11_C01_B03.rmd"
+	},
+	"[262]M11_C01_B03.rmd": {
+		"mapName": "河口ダンジョン　'ド'　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[261]M11_C01_B02.rmd"
+	},
+	"[263]M11_C02_B01.rmd": {
+		"mapName": "河口ダンジョン　'レ'　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[259]M11.rmd,[264]M11_C02_B02.rmd"
+	},
+	"[264]M11_C02_B02.rmd": {
+		"mapName": "河口ダンジョン　'レ'　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[263]M11_C02_B01.rmd"
+	},
+	"[265]M11_C03_B01.rmd": {
+		"mapName": "河口ダンジョン　'ミ'　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[259]M11.rmd"
+	},
+	"[266]M11_C04_B01.rmd": {
+		"mapName": "河口ダンジョン　'ラ'　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[259]M11.rmd,[267]M11_C04_B02.rmd"
+	},
+	"[267]M11_C04_B02.rmd": {
+		"mapName": "河口ダンジョン　'ラ'　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[266]M11_C04_B01.rmd"
+	},
+	"[268]P01.rmd": {
+		"mapName": "廃墟スバイン要塞",
+		"mapType": 1,
+		"accessMap": "[259]M11.rmd,[271]P01_H02_F01.rmd,[273]P01_H03_F01.rmd,[275]P01_H04_F01.rmd,[277]P01_H05_F01.rmd,[269]P01_H01_F01.rmd"
+	},
+	"[269]P01_H01_F01.rmd": {
+		"mapName": "崩れた家",
+		"mapType": 1,
+		"accessMap": "[268]P01.rmd"
+	},
+	"[270]P01_H02_B01.rmd": {
+		"mapName": "兵営 B1",
+		"mapType": 1,
+		"accessMap": "[271]P01_H02_F01.rmd"
+	},
+	"[271]P01_H02_F01.rmd": {
+		"mapName": "兵舎　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[268]P01.rmd,[272]P01_H02_F02.rmd,[270]P01_H02_B01.rmd"
+	},
+	"[272]P01_H02_F02.rmd": {
+		"mapName": "兵舎　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[271]P01_H02_F01.rmd"
+	},
+	"[273]P01_H03_F01.rmd": {
+		"mapName": "旅館　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[268]P01.rmd,[274]P01_H03_F02.rmd"
+	},
+	"[274]P01_H03_F02.rmd": {
+		"mapName": "旅館　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[273]P01_H03_F01.rmd"
+	},
+	"[275]P01_H04_F01.rmd": {
+		"mapName": "商店　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[276]P01_H04_F02.rmd,[268]P01.rmd"
+	},
+	"[276]P01_H04_F02.rmd": {
+		"mapName": "商店　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[275]P01_H04_F01.rmd"
+	},
+	"[277]P01_H05_F01.rmd": {
+		"mapName": "監獄",
+		"mapType": 1,
+		"accessMap": "[268]P01.rmd"
+	},
+	"[278]M07.rmd": {
+		"mapName": "バヘル大河 / 東バヘル川上流",
+		"mapType": 1,
+		"accessMap": "[282]M07_C01_B01.rmd,[130]G09.rmd,[131]G10.rmd,[031]M12.rmd,[279]M05.rmd"
+	},
+	"[279]M05.rmd": {
+		"mapName": "ファウンティンス・ハイランド",
+		"mapType": 1,
+		"accessMap": "[283]M05_C01_B01.rmd,[278]M07.rmd,[284]M05_C02_B01.rmd,[286]M05_C03_B01.rmd"
+	},
+	"[280]D17.rmd": {
+		"mapName": "半島の海辺",
+		"mapType": 1,
+		"accessMap": "[296]D17_C01_B01.rmd,[128]G32.rmd,[127]G31.rmd,[281]M24.rmd,[513]D17_H01_B1.rmd,[516]D17_H01_B4.rmd"
+	},
+	"[281]M24.rmd": {
+		"mapName": "ソゴム山脈赤山",
+		"mapType": 1,
+		"accessMap": "[295]M81.rmd,[280]D17.rmd,[310]T12.rmd,[300]G28.rmd,[340]T16.rmd"
+	},
+	"[282]M07_C01_B01.rmd": {
+		"mapName": "東バヘル　カルスト洞窟",
+		"mapType": 1,
+		"accessMap": "[278]M07.rmd"
+	},
+	"[283]M05_C01_B01.rmd": {
+		"mapName": "泉の水の穴",
+		"mapType": 1,
+		"accessMap": "[279]M05.rmd"
+	},
+	"[284]M05_C02_B01.rmd": {
+		"mapName": "ハイランド洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[279]M05.rmd,[285]M05_C02_B02.rmd"
+	},
+	"[285]M05_C02_B02.rmd": {
+		"mapName": "ハイランド洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[284]M05_C02_B01.rmd"
+	},
+	"[286]M05_C03_B01.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[279]M05.rmd,[287]M05_C03_B02.rmd"
+	},
+	"[287]M05_C03_B02.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[286]M05_C03_B01.rmd,[288]M05_C03_B03.rmd,[291]M05_C03_B06.rmd,[292]M05_D01_B01.rmd"
+	},
+	"[288]M05_C03_B03.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟 / ミズナの洞窟",
+		"mapType": 1,
+		"accessMap": "[287]M05_C03_B02.rmd"
+	},
+	"[289]M05_C03_B04.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟 / 小さな洞窟",
+		"mapType": 1,
+		"accessMap": "[286]M05_C03_B01.rmd"
+	},
+	"[290]M05_C03_B05.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟 / 宝石の部屋",
+		"mapType": 1,
+		"accessMap": "[286]M05_C03_B01.rmd"
+	},
+	"[291]M05_C03_B06.rmd": {
+		"mapName": "呪いを受けたミズナの洞窟 / 泉の水",
+		"mapType": 1,
+		"accessMap": "[287]M05_C03_B02.rmd"
+	},
+	"[292]M05_D01_B01.rmd": {
+		"mapName": "名も無い遺跡の入口",
+		"mapType": 1,
+		"accessMap": "[293]M05_D01_B02.rmd,[287]M05_C03_B02.rmd"
+	},
+	"[293]M05_D01_B02.rmd": {
+		"mapName": "名も無き遺跡　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[294]M05_D01_B03.rmd,[292]M05_D01_B01.rmd"
+	},
+	"[294]M05_D01_B03.rmd": {
+		"mapName": "名も無き遺跡　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[293]M05_D01_B02.rmd"
+	},
+	"[295]M81.rmd": {
+		"mapName": "ソゴム山脈　赤山登山路",
+		"mapType": 1,
+		"accessMap": "[281]M24.rmd"
+	},
+	"[296]D17_C01_B01.rmd": {
+		"mapName": "キャンサーの巣　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[280]D17.rmd,[297]D17_C01_B02.rmd"
+	},
+	"[297]D17_C01_B02.rmd": {
+		"mapName": "キャンサーの巣　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[298]D17_C01_B03.rmd,[296]D17_C01_B01.rmd"
+	},
+	"[298]D17_C01_B03.rmd": {
+		"mapName": "キャンサーの巣　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[297]D17_C01_B02.rmd,[299]D17_C01_B04.rmd"
+	},
+	"[299]D17_C01_B04.rmd": {
+		"mapName": "キャンサーの巣　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[298]D17_C01_B03.rmd"
+	},
+	"[300]G28.rmd": {
+		"mapName": "オロイン森",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd,[301]G28_C01_B01.rmd,[281]M24.rmd,[517]G28_G01_D01.rmd"
+	},
+	"[301]G28_C01_B01.rmd": {
+		"mapName": "オロイン森　地下洞窟",
+		"mapType": 1,
+		"accessMap": "[300]G28.rmd"
+	},
+	"[302]D16.rmd": {
+		"mapName": "スパインビーチ",
+		"mapType": 1,
+		"accessMap": "[303]D16_C01_B01.rmd,[304]D16_C02_B01.rmd,[305]D16_C03_B01.rmd,[306]D16_C04_B01.rmd,[307]D16_C05_B01.rmd,[308]D16_C06_B01.rmd,[309]D16_C07_B01.rmd,[300]G28.rmd"
+	},
+	"[303]D16_C01_B01.rmd": {
+		"mapName": "１番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[304]D16_C02_B01.rmd": {
+		"mapName": "２番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[305]D16_C03_B01.rmd": {
+		"mapName": "３番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[306]D16_C04_B01.rmd": {
+		"mapName": "４番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[307]D16_C05_B01.rmd": {
+		"mapName": "５番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[308]D16_C06_B01.rmd": {
+		"mapName": "６番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[309]D16_C07_B01.rmd": {
+		"mapName": "７番目のスパインホール　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[302]D16.rmd"
+	},
+	"[310]T12.rmd": {
+		"mapName": "大きな町 バリアート",
+		"mapType": 2,
+		"accessMap": "[312]T12_B01.rmd,[313]T12_H01.rmd,[311]T12_I01.rmd,[281]M24.rmd,[316]T12_V01.rmd,[314]T12_H02.rmd,[315]T12_H03.rmd,[317]S24.rmd"
+	},
+	"[311]T12_I01.rmd": {
+		"mapName": "黄金色の小麦畑亭",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[312]T12_B01.rmd": {
+		"mapName": "バリアート　雑貨店",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[313]T12_H01.rmd": {
+		"mapName": "バリアート　民家",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[314]T12_H02.rmd": {
+		"mapName": "バリアート　農家",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[315]T12_H03.rmd": {
+		"mapName": "バリアート　家",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[316]T12_V01.rmd": {
+		"mapName": "バリアート酒場",
+		"mapType": 3,
+		"accessMap": "[310]T12.rmd"
+	},
+	"[317]S24.rmd": {
+		"mapName": "オカー三角州",
+		"mapType": 1,
+		"accessMap": "[318]S24_C01_B01.rmd,[310]T12.rmd,[493]S24_C02_B01.rmd"
+	},
+	"[318]S24_C01_B01.rmd": {
+		"mapName": "ゴールド・スワンプ洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[317]S24.rmd,[319]S24_C01_B02.rmd"
+	},
+	"[319]S24_C01_B02.rmd": {
+		"mapName": "ゴールド・スワンプ洞窟 B2",
+		"mapType": 1,
+		"accessMap": "[320]S24_C01_B03.rmd,[318]S24_C01_B01.rmd"
+	},
+	"[320]S24_C01_B03.rmd": {
+		"mapName": "ゴールド・スワンプ洞窟 B3",
+		"mapType": 1,
+		"accessMap": "[319]S24_C01_B02.rmd"
+	},
+	"[321]D16_C08_B01.rmd": {
+		"mapName": "スパインホール地下　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[322]D08.rmd": {
+		"mapName": "ウェテンロード / デフヒルズ東部地域",
+		"mapType": 1,
+		"accessMap": "[156]D06.rmd,[323]D11.rmd,[329]D08_C01_B01.rmd"
+	},
+	"[323]D11.rmd": {
+		"mapName": "ウェテンロード / ケルチ大橋付近",
+		"mapType": 1,
+		"accessMap": "[325]D11_S01_B01.rmd,[322]D08.rmd,[324]G06.rmd,[373]T02.rmd"
+	},
+	"[324]G06.rmd": {
+		"mapName": "グレートフォレスト/ 妖精達の蜘蛛の糸",
+		"mapType": 1,
+		"accessMap": "[332]G06_G01_N02.rmd,[331]G06_G01_N01.rmd,[336]G06_H02_B01.rmd,[129]G04.rmd,[333]G06_G01_N03.rmd,[323]D11.rmd,[334]G06_H01_F01.rmd"
+	},
+	"[325]D11_S01_B01.rmd": {
+		"mapName": "ビックマウスダンジョン　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[323]D11.rmd,[326]D11_S01_B02.rmd"
+	},
+	"[326]D11_S01_B02.rmd": {
+		"mapName": "ビックマウスダンジョン　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[325]D11_S01_B01.rmd,[327]D11_S01_B03.rmd"
+	},
+	"[327]D11_S01_B03.rmd": {
+		"mapName": "ビックマウスダンジョン　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[326]D11_S01_B02.rmd,[328]D11_S01_B04.rmd"
+	},
+	"[328]D11_S01_B04.rmd": {
+		"mapName": "ビックマウスダンジョン　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[327]D11_S01_B03.rmd"
+	},
+	"[329]D08_C01_B01.rmd": {
+		"mapName": "デフヒルズ小さな洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[330]D08_C01_B02.rmd,[322]D08.rmd"
+	},
+	"[330]D08_C01_B02.rmd": {
+		"mapName": "デフヒルズ小さな洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[329]D08_C01_B01.rmd"
+	},
+	"[331]G06_G01_N01.rmd": {
+		"mapName": "ダークエルフの王宮寺院",
+		"mapType": 1,
+		"accessMap": "[324]G06.rmd,[332]G06_G01_N02.rmd"
+	},
+	"[332]G06_G01_N02.rmd": {
+		"mapName": "ダークエルフの王宮",
+		"mapType": 1,
+		"accessMap": "[324]G06.rmd,[333]G06_G01_N03.rmd,[331]G06_G01_N01.rmd,[337]G06_H03_F01.rmd"
+	},
+	"[333]G06_G01_N03.rmd": {
+		"mapName": "ダークエルフの庭園",
+		"mapType": 1,
+		"accessMap": "[332]G06_G01_N02.rmd,[324]G06.rmd"
+	},
+	"[334]G06_H01_F01.rmd": {
+		"mapName": "猟師の休憩室",
+		"mapType": 1,
+		"accessMap": "[324]G06.rmd,[335]G06_H01_B01.rmd"
+	},
+	"[335]G06_H01_B01.rmd": {
+		"mapName": "地下倉庫",
+		"mapType": 1,
+		"accessMap": "[334]G06_H01_F01.rmd"
+	},
+	"[336]G06_H02_B01.rmd": {
+		"mapName": "ダークエルフ王宮への近道",
+		"mapType": 1,
+		"accessMap": "[324]G06.rmd,[339]G06_H03_F03.rmd"
+	},
+	"[337]G06_H03_F01.rmd": {
+		"mapName": "ダークエルフ王宮　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[332]G06_G01_N02.rmd,[338]G06_H03_F02.rmd"
+	},
+	"[338]G06_H03_F02.rmd": {
+		"mapName": "ダークエルフ王宮　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[337]G06_H03_F01.rmd,[339]G06_H03_F03.rmd"
+	},
+	"[339]G06_H03_F03.rmd": {
+		"mapName": "ダークエルフ王宮　３Ｆ",
+		"mapType": 1,
+		"accessMap": "[338]G06_H03_F02.rmd,[336]G06_H02_B01.rmd"
+	},
+	"[340]T16.rmd": {
+		"mapName": "ロマ村 ビスル",
+		"mapType": 2,
+		"accessMap": "[281]M24.rmd"
+	},
+	"[341]M01.rmd": {
+		"mapName": "クェレスプリング湖",
+		"mapType": 1,
+		"accessMap": "[342]M01_C01_B01.rmd,[347]T14.rmd,[006]G08.rmd,[001]G07.rmd,[129]G04.rmd"
+	},
+	"[342]M01_C01_B01.rmd": {
+		"mapName": "湖下の通路",
+		"mapType": 1,
+		"accessMap": "[341]M01.rmd,[343]M01_D01_B01.rmd"
+	},
+	"[343]M01_D01_B01.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[342]M01_C01_B01.rmd,[344]M01_D01_B02.rmd"
+	},
+	"[344]M01_D01_B02.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[343]M01_D01_B01.rmd,[345]M01_D01_B03.rmd"
+	},
+	"[345]M01_D01_B03.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[344]M01_D01_B02.rmd,[346]M01_D01_B04.rmd"
+	},
+	"[346]M01_D01_B04.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[345]M01_D01_B03.rmd,[355]M01_D01_B05.rmd"
+	},
+	"[347]T14.rmd": {
+		"mapName": "伐木町ブレンティル",
+		"mapType": 2,
+		"accessMap": "[353]G01.rmd,[350]T14_I01.rmd,[351]T14_V01.rmd,[348]T14_B01.rmd,[349]T14_Bank01.rmd,[000]T01.rmd,[341]M01.rmd,[352]T14_G01_F01.rmd"
+	},
+	"[348]T14_B01.rmd": {
+		"mapName": "ブレンティル雑貨店",
+		"mapType": 3,
+		"accessMap": "[347]T14.rmd"
+	},
+	"[349]T14_Bank01.rmd": {
+		"mapName": "ブレンティル銀行",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd,[347]T14.rmd"
+	},
+	"[350]T14_I01.rmd": {
+		"mapName": "ブレンティル旅館",
+		"mapType": 3,
+		"accessMap": "[347]T14.rmd"
+	},
+	"[351]T14_V01.rmd": {
+		"mapName": "ブレンティル酒場",
+		"mapType": 3,
+		"accessMap": "[347]T14.rmd"
+	},
+	"[352]T14_G01_F01.rmd": {
+		"mapName": "伐木場",
+		"mapType": 1,
+		"accessMap": "[347]T14.rmd"
+	},
+	"[353]G01.rmd": {
+		"mapName": "グレートフォレスト　ネイブ滝付近",
+		"mapType": 1,
+		"accessMap": "[347]T14.rmd,[129]G04.rmd,[354]G01_C01_B01.rmd,[478]Bifrost.rmd"
+	},
+	"[354]G01_C01_B01.rmd": {
+		"mapName": "ネイブ滝洞窟",
+		"mapType": 1,
+		"accessMap": "[353]G01.rmd"
+	},
+	"[355]M01_D01_B05.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[346]M01_D01_B04.rmd,[356]M01_D01_B06.rmd"
+	},
+	"[356]M01_D01_B06.rmd": {
+		"mapName": "レッドアイ秘密基地　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[355]M01_D01_B05.rmd,[357]M01_D01_B07.rmd"
+	},
+	"[357]M01_D01_B07.rmd": {
+		"mapName": "レッドアイ倉庫",
+		"mapType": 1,
+		"accessMap": "[356]M01_D01_B06.rmd"
+	},
+	"[358]G04_D01_B01.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[129]G04.rmd,[359]G04_D01_B02.rmd"
+	},
+	"[359]G04_D01_B02.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[358]G04_D01_B01.rmd,[360]G04_D01_B03.rmd"
+	},
+	"[360]G04_D01_B03.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[359]G04_D01_B02.rmd,[361]G04_D01_B04.rmd"
+	},
+	"[361]G04_D01_B04.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[360]G04_D01_B03.rmd,[362]G04_D01_B05.rmd"
+	},
+	"[362]G04_D01_B05.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ５",
+		"mapType": 1,
+		"accessMap": "[361]G04_D01_B04.rmd,[363]G04_D01_B06.rmd"
+	},
+	"[363]G04_D01_B06.rmd": {
+		"mapName": "暴かれた納骨堂　Ｂ６",
+		"mapType": 1,
+		"accessMap": "[362]G04_D01_B05.rmd"
+	},
+	"[364]D07.rmd": {
+		"mapName": "デフヒルズ",
+		"mapType": 1,
+		"accessMap": "[169]D05.rmd,[365]D09.rmd,[405]D07_S01_B01.rmd,[505]D18.rmd"
+	},
+	"[365]D09.rmd": {
+		"mapName": "ガディウス大砂漠 / モリネルタワー付近",
+		"mapType": 1,
+		"accessMap": "[376]T07.rmd,[364]D07.rmd,[380]D09_S01_F01.rmd"
+	},
+	"[366]G20.rmd": {
+		"mapName": "北フォーリンロード / ビガプール南部地域",
+		"mapType": 1,
+		"accessMap": "[373]T02.rmd,[369]S04.rmd,[439]S05.rmd"
+	},
+	"[367]G23.rmd": {
+		"mapName": "南フォーリンロード / シュトラセラト西部地域",
+		"mapType": 1,
+		"accessMap": "[372]S09.rmd,[375]T05.rmd,[388]G23_G01_F01.rmd"
+	},
+	"[368]M16.rmd": {
+		"mapName": "エルベルグ山脈 / テレット・トンネル付近",
+		"mapType": 1,
+		"accessMap": "[024]G19.rmd,[450]M17.rmd,[371]S08.rmd,[401]M16_C01_F01.rmd,[403]M16_C02_F01.rmd"
+	},
+	"[369]S04.rmd": {
+		"mapName": "北フォーリンロード / ネイダック平原地帯",
+		"mapType": 1,
+		"accessMap": "[366]G20.rmd,[385]S04_D01_B01.rmd,[370]S07.rmd"
+	},
+	"[370]S07.rmd": {
+		"mapName": "北フォーリンロード / 西リットリン半島",
+		"mapType": 1,
+		"accessMap": "[369]S04.rmd,[371]S08.rmd"
+	},
+	"[371]S08.rmd": {
+		"mapName": "南フォーリンロード / テレット・トンネル出口付近",
+		"mapType": 1,
+		"accessMap": "[370]S07.rmd,[368]M16.rmd,[372]S09.rmd"
+	},
+	"[372]S09.rmd": {
+		"mapName": "南フォーリンロード / エルン山南部地域",
+		"mapType": 1,
+		"accessMap": "[371]S08.rmd,[367]G23.rmd,[387]S09_G01_F01.rmd,[006]G08.rmd"
+	},
+	"[373]T02.rmd": {
+		"mapName": "新興王国ビガプール",
+		"mapType": 2,
+		"accessMap": "[396]T02_A01.rmd,[445]T02_P02.rmd,[397]T02_I01.rmd,[366]G20.rmd,[374]T09.rmd,[323]D11.rmd,[399]T02_P01.rmd,[398]T02_BANK01.rmd"
+	},
+	"[374]T09.rmd": {
+		"mapName": "小都市ビッグアイ",
+		"mapType": 2,
+		"accessMap": "[373]T02.rmd,[600]T09_H01.rmd"
+	},
+	"[375]T05.rmd": {
+		"mapName": "港街シュトラセラト",
+		"mapType": 2,
+		"accessMap": "[393]T05_L01.rmd,[392]T05_A01.rmd,[408]T05_W01.rmd,[407]T05_Bank01.rmd,[406]T05_B01.rmd,[367]G23.rmd,[379]T05_V01.rmd,[444]S22.rmd"
+	},
+	"[376]T07.rmd": {
+		"mapName": "荒廃都市ダメル",
+		"mapType": 2,
+		"accessMap": "[365]D09.rmd,[394]T07_V01.rmd,[400]T07_B01.rmd,[404]T07_D01_F01.rmd,[509]T07_D02_B01.rmd"
+	},
+	"[377]T01_N01.rmd": {
+		"mapName": "国会議員ブロームの事務室",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[378]T09_K01.rmd": {
+		"mapName": "火酒倉庫",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[379]T05_V01.rmd": {
+		"mapName": "ブルースビストロ",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[380]D09_S01_F01.rmd": {
+		"mapName": "モリネルタワー　地上１階",
+		"mapType": 1,
+		"accessMap": "[365]D09.rmd,[381]D09_S01_F02.rmd"
+	},
+	"[381]D09_S01_F02.rmd": {
+		"mapName": "モリネルタワー　地上２階",
+		"mapType": 1,
+		"accessMap": "[382]D09_S01_F03.rmd,[380]D09_S01_F01.rmd"
+	},
+	"[382]D09_S01_F03.rmd": {
+		"mapName": "モリネルタワー　地上３階",
+		"mapType": 1,
+		"accessMap": "[381]D09_S01_F02.rmd,[383]D09_S01_F04.rmd"
+	},
+	"[383]D09_S01_F04.rmd": {
+		"mapName": "モリネルタワー　地上４階",
+		"mapType": 1,
+		"accessMap": "[384]D09_S01_F05.rmd,[382]D09_S01_F03.rmd"
+	},
+	"[384]D09_S01_F05.rmd": {
+		"mapName": "モリネルタワー　地上５階",
+		"mapType": 1,
+		"accessMap": "[383]D09_S01_F04.rmd,[471]D09_S01_F06.rmd"
+	},
+	"[385]S04_D01_B01.rmd": {
+		"mapName": "フォーリン望楼　地下",
+		"mapType": 1,
+		"accessMap": "[369]S04.rmd"
+	},
+	"[386]H01.rmd": {
+		"mapName": "天上界入口",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[387]S09_G01_F01.rmd": {
+		"mapName": "トラン森西部",
+		"mapType": 1,
+		"accessMap": "[372]S09.rmd,[388]G23_G01_F01.rmd,[391]G21_G01_F01.rmd,[390]M17_G01_F01.rmd"
+	},
+	"[388]G23_G01_F01.rmd": {
+		"mapName": "トラン森南部",
+		"mapType": 1,
+		"accessMap": "[367]G23.rmd,[387]S09_G01_F01.rmd,[391]G21_G01_F01.rmd,[389]T13_G01_F01.rmd"
+	},
+	"[389]T13_G01_F01.rmd": {
+		"mapName": "トラン森東部",
+		"mapType": 1,
+		"accessMap": "[388]G23_G01_F01.rmd,[391]G21_G01_F01.rmd,[390]M17_G01_F01.rmd,[451]T13.rmd"
+	},
+	"[390]M17_G01_F01.rmd": {
+		"mapName": "トラン森北部",
+		"mapType": 1,
+		"accessMap": "[389]T13_G01_F01.rmd,[391]G21_G01_F01.rmd,[387]S09_G01_F01.rmd,[450]M17.rmd"
+	},
+	"[391]G21_G01_F01.rmd": {
+		"mapName": "トラン森中部",
+		"mapType": 1,
+		"accessMap": "[387]S09_G01_F01.rmd,[388]G23_G01_F01.rmd,[389]T13_G01_F01.rmd,[390]M17_G01_F01.rmd"
+	},
+	"[392]T05_A01.rmd": {
+		"mapName": "シュトラセラト防具店",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[393]T05_L01.rmd": {
+		"mapName": "シュトラセラト魔法用品店",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[394]T07_V01.rmd": {
+		"mapName": "オールドパブ",
+		"mapType": 3,
+		"accessMap": "[376]T07.rmd"
+	},
+	"[395]T07_E01.rmd": {
+		"mapName": "ゲールの家",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[396]T02_A01.rmd": {
+		"mapName": "ビガプール軍物品店",
+		"mapType": 3,
+		"accessMap": "[373]T02.rmd"
+	},
+	"[397]T02_I01.rmd": {
+		"mapName": "冒険家協会ビガプール支部 / 黄金色の小麦畑亭",
+		"mapType": 3,
+		"accessMap": "[373]T02.rmd"
+	},
+	"[398]T02_BANK01.rmd": {
+		"mapName": "ビガプール銀行",
+		"mapType": 3,
+		"accessMap": "[373]T02.rmd"
+	},
+	"[399]T02_P01.rmd": {
+		"mapName": "ビガプール教会",
+		"mapType": 3,
+		"accessMap": "[373]T02.rmd"
+	},
+	"[400]T07_B01.rmd": {
+		"mapName": "ダメル雑貨店",
+		"mapType": 3,
+		"accessMap": "[376]T07.rmd"
+	},
+	"[401]M16_C01_F01.rmd": {
+		"mapName": "テレット・トンネル北口",
+		"mapType": 1,
+		"accessMap": "[368]M16.rmd,[402]M16_C01_B01.rmd"
+	},
+	"[402]M16_C01_B01.rmd": {
+		"mapName": "テレット・トンネル",
+		"mapType": 1,
+		"accessMap": "[401]M16_C01_F01.rmd,[403]M16_C02_F01.rmd"
+	},
+	"[403]M16_C02_F01.rmd": {
+		"mapName": "テレット・トンネル南口",
+		"mapType": 1,
+		"accessMap": "[402]M16_C01_B01.rmd,[368]M16.rmd"
+	},
+	"[404]T07_D01_F01.rmd": {
+		"mapName": "ダメル地下遺跡",
+		"mapType": 1,
+		"accessMap": "[376]T07.rmd"
+	},
+	"[405]D07_S01_B01.rmd": {
+		"mapName": "デフヒルズ古代遺跡 B1",
+		"mapType": 1,
+		"accessMap": "[364]D07.rmd,[508]D07_S01_B02.rmd"
+	},
+	"[406]T05_B01.rmd": {
+		"mapName": "シュトラセラト雑貨店",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[407]T05_Bank01.rmd": {
+		"mapName": "シュトラセラト銀行",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[408]T05_W01.rmd": {
+		"mapName": "シュトラセラト武器店",
+		"mapType": 3,
+		"accessMap": "[375]T05.rmd"
+	},
+	"[409]S09_C01_B01.rmd": {
+		"mapName": "エルン山南部地下洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[372]S09.rmd"
+	},
+	"[410]G14_H01_F01.rmd": {
+		"mapName": "ブロームの別荘",
+		"mapType": 1,
+		"accessMap": "[132]G14.rmd"
+	},
+	"[411]M10_S01_F21.rmd": {
+		"mapName": "アイノ・ガスピルの家",
+		"mapType": 1,
+		"accessMap": "[258]M10_S01_F20.rmd"
+	},
+	"[412]T01_D01_B02.rmd": {
+		"mapName": "地下水路　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[413]T01_D01_B03.rmd,[152]T01_D01_B01.rmd"
+	},
+	"[413]T01_D01_B03.rmd": {
+		"mapName": "地下水路　Ｂ３",
+		"mapType": 1,
+		"accessMap": "[424]T01_D03_B01.rmd,[412]T01_D01_B02.rmd,[447]T01_D01_B04.rmd"
+	},
+	"[414]G20_D01_B01.rmd": {
+		"mapName": "地下遺跡　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[366]G20.rmd"
+	},
+	"[415]G20_D01_B02.rmd": {
+		"mapName": "地下遺跡　Ｂ２",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[416]T04_H04_F01.rmd": {
+		"mapName": "ブリッジヘッド商人ギルド　１Ｆ",
+		"mapType": 1,
+		"accessMap": "[417]T04_H04_F02.rmd,[074]T04.rmd"
+	},
+	"[417]T04_H04_F02.rmd": {
+		"mapName": "ブリッジヘッド商人ギルド　２Ｆ",
+		"mapType": 1,
+		"accessMap": "[416]T04_H04_F01.rmd"
+	},
+	"[418]H02.rmd": {
+		"mapName": "天上界RED STONE跡",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[419]D01_S01_B01.rmd": {
+		"mapName": "レッドアイ秘密指令所",
+		"mapType": 1,
+		"accessMap": "[154]D01.rmd"
+	},
+	"[420]G07_H01_B01.rmd": {
+		"mapName": "秘密図書館",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[421]A01.rmd": {
+		"mapName": "地下界の町入口",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[422]A02.rmd": {
+		"mapName": "地下界入り口",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[423]T01_D02_B01.rmd": {
+		"mapName": "秘密資料室",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[424]T01_D03_B01.rmd": {
+		"mapName": "演壇の部屋",
+		"mapType": 1,
+		"accessMap": "[413]T01_D01_B03.rmd"
+	},
+	"[425]T03_C01.rmd": {
+		"mapName": "アウグスタ大聖堂",
+		"mapType": 3,
+		"accessMap": "[071]T03.rmd"
+	},
+	"[426]D05_D01_B01.rmd": {
+		"mapName": "地下界補給倉庫",
+		"mapType": 1,
+		"accessMap": "[169]D05.rmd"
+	},
+	"[427]D81.rmd": {
+		"mapName": "忘れられたオアシス",
+		"mapType": 1,
+		"accessMap": "[156]D06.rmd"
+	},
+	"[428]H03.rmd": {
+		"mapName": "ガリエルの執務室",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[429]T02_D01_B01.rmd": {
+		"mapName": "ガルカス悪魔軍集結地　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[435]S12.rmd,[430]T05_D01_B01.rmd"
+	},
+	"[430]T05_D01_B01.rmd": {
+		"mapName": "ガルカス悪魔軍集結地　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[429]T02_D01_B01.rmd"
+	},
+	"[431]T08_H02_B01.rmd": {
+		"mapName": "砂漠地帯 悪党集団のアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[432]T08_H02_B01.rmd": {
+		"mapName": "砂漠地帯 悪党集団のアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[433]chobozone.rmd": {
+		"mapName": "冒険家協会　冒険家訓練所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[434]S13.rmd": {
+		"mapName": "グレートマウンテン北部",
+		"mapType": 1,
+		"accessMap": "[436]S14.rmd,[435]S12.rmd"
+	},
+	"[435]S12.rmd": {
+		"mapName": "ナラダ平原 / ウエストスワンプ",
+		"mapType": 1,
+		"accessMap": "[446]S12_C01_B01.rmd,[434]S13.rmd,[429]T02_D01_B01.rmd"
+	},
+	"[436]S14.rmd": {
+		"mapName": "ナラダ平原の沼地帯 / ノーススワンプ",
+		"mapType": 1,
+		"accessMap": "[434]S13.rmd,[437]S15.rmd"
+	},
+	"[437]S15.rmd": {
+		"mapName": "ゴリマ沼地",
+		"mapType": 1,
+		"accessMap": "[439]S05.rmd,[443]T15.rmd,[436]S14.rmd"
+	},
+	"[438]T17.rmd": {
+		"mapName": "山麓村ウムバ",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[439]S05.rmd": {
+		"mapName": "ネイダック平原 / ラカリフサ北部地域",
+		"mapType": 1,
+		"accessMap": "[366]G20.rmd,[437]S15.rmd,[443]T15.rmd,[492]S05_D01_B01.rmd"
+	},
+	"[440]NP.rmd": {
+		"mapName": "試練の地",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[441]M17_C01_F05.rmd": {
+		"mapName": "忘れられた廃坑　Ｅ",
+		"mapType": 1,
+		"accessMap": "[450]M17.rmd"
+	},
+	"[442]T13_I01.rmd": {
+		"mapName": "ガリムト旅館",
+		"mapType": 3,
+		"accessMap": "[451]T13.rmd"
+	},
+	"[443]T15.rmd": {
+		"mapName": "農村ラカリフサ",
+		"mapType": 2,
+		"accessMap": "[439]S05.rmd,[437]S15.rmd,[458]T15_I01.rmd,[457]T15_Bank01.rmd,[460]T15_C01.rmd,[453]T15_T01_F01.rmd,[455]T15_W01.rmd,[456]T15_B01.rmd"
+	},
+	"[444]S22.rmd": {
+		"mapName": "ミルトリムの道 / シュトラセラト入口付近",
+		"mapType": 1,
+		"accessMap": "[375]T05.rmd,[451]T13.rmd,[497]S22_C01_B01.rmd"
+	},
+	"[445]T02_P02.rmd": {
+		"mapName": "ビガプール教会公館",
+		"mapType": 3,
+		"accessMap": "[373]T02.rmd"
+	},
+	"[446]S12_C01_B01.rmd": {
+		"mapName": "ウエストスワンプ洞窟",
+		"mapType": 1,
+		"accessMap": "[435]S12.rmd"
+	},
+	"[447]T01_D01_B04.rmd": {
+		"mapName": "地下水路　Ｂ４",
+		"mapType": 1,
+		"accessMap": "[413]T01_D01_B03.rmd"
+	},
+	"[448]cabin.rmd": {
+		"mapName": "ログハウス",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[449]blanka.rmd": {
+		"mapName": "‘ミルトリムの道 / シュトラセラト入口付近’の地下洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[450]M17.rmd": {
+		"mapName": "エルベルグ山脈 / エルン山",
+		"mapType": 1,
+		"accessMap": "[441]M17_C01_F05.rmd,[368]M16.rmd,[390]M17_G01_F01.rmd,[504]M29.rmd"
+	},
+	"[451]T13.rmd": {
+		"mapName": "農村ガリムト",
+		"mapType": 2,
+		"accessMap": "[389]T13_G01_F01.rmd,[452]T13_W01.rmd,[444]S22.rmd,[442]T13_I01.rmd"
+	},
+	"[452]T13_W01.rmd": {
+		"mapName": "ガリムト武器・雑貨店",
+		"mapType": 3,
+		"accessMap": "[451]T13.rmd"
+	},
+	"[453]T15_T01_F01.rmd": {
+		"mapName": "ラカリフサ村民会館　１Ｆ",
+		"mapType": 3,
+		"accessMap": "[454]T15_T01_F02.rmd,[443]T15.rmd"
+	},
+	"[454]T15_T01_F02.rmd": {
+		"mapName": "ラカリフサ村民会館　２Ｆ",
+		"mapType": 3,
+		"accessMap": "[453]T15_T01_F01.rmd"
+	},
+	"[455]T15_W01.rmd": {
+		"mapName": "ラカリフサ武器店",
+		"mapType": 3,
+		"accessMap": "[443]T15.rmd"
+	},
+	"[456]T15_B01.rmd": {
+		"mapName": "ラカリフサ　道具・雑貨店",
+		"mapType": 3,
+		"accessMap": "[443]T15.rmd"
+	},
+	"[457]T15_Bank01.rmd": {
+		"mapName": "ラカリフサ銀行",
+		"mapType": 3,
+		"accessMap": "[443]T15.rmd"
+	},
+	"[458]T15_I01.rmd": {
+		"mapName": "ラカリフサ旅館",
+		"mapType": 3,
+		"accessMap": "[459]T15_I02.rmd,[443]T15.rmd"
+	},
+	"[459]T15_I02.rmd": {
+		"mapName": "ラカリフサ旅館　２Ｆ",
+		"mapType": 3,
+		"accessMap": "[458]T15_I01.rmd"
+	},
+	"[460]T15_C01.rmd": {
+		"mapName": "ラカリフサ教会",
+		"mapType": 3,
+		"accessMap": "[443]T15.rmd"
+	},
+	"[461]T01_D04_B01.rmd": {
+		"mapName": "ブルン王国の王宮跡地の地下",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[462]T01_D05_B01.rmd": {
+		"mapName": "ブルン王国の秘密図書館",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[463]T01_D01_B04_.rmd": {
+		"mapName": "本棚の後ろにある隠し部屋",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[464]M10_H01_F01.rmd": {
+		"mapName": "捨てられた望楼",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[465]M09_H01_F01.rmd": {
+		"mapName": "秘密の山荘",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[466]D01_B01.rmd": {
+		"mapName": "ドラコリッチの遺跡",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[467]D03_B01.rmd": {
+		"mapName": "ティアメスの道",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[468]S14_T01_B01.rmd": {
+		"mapName": "地下軍団　集結地",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[469]S15_D01_B01.rmd": {
+		"mapName": "沈んだ遺跡",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[470]S15_D01_B02.rmd": {
+		"mapName": "古代美術館",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[471]D09_S01_F06.rmd": {
+		"mapName": "モリネルタワー　地上６階",
+		"mapType": 1,
+		"accessMap": "[384]D09_S01_F05.rmd"
+	},
+	"[472]G21_G02_F01.rmd": {
+		"mapName": "時の森",
+		"mapType": 1,
+		"accessMap": "[473]G21_G03_F01.rmd"
+	},
+	"[473]G21_G03_F01.rmd": {
+		"mapName": "時の森",
+		"mapType": 1,
+		"accessMap": "[474]G21_G04_F01.rmd,[472]G21_G02_F01.rmd"
+	},
+	"[474]G21_G04_F01.rmd": {
+		"mapName": "時の森",
+		"mapType": 1,
+		"accessMap": "[473]G21_G03_F01.rmd"
+	},
+	"[475]Heaven.rmd": {
+		"mapName": "天上界",
+		"mapType": 1,
+		"accessMap": "[479]Nest.rmd"
+	},
+	"[476]Hell.rmd": {
+		"mapName": "ロシペル城",
+		"mapType": 1,
+		"accessMap": "[490]BF_02.rmd"
+	},
+	"[477]BF_town01.rmd": {
+		"mapName": "地下界の町",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[478]Bifrost.rmd": {
+		"mapName": "ビフレスト橋の前",
+		"mapType": 1,
+		"accessMap": "[353]G01.rmd"
+	},
+	"[479]Nest.rmd": {
+		"mapName": "フォゲルネスト",
+		"mapType": 1,
+		"accessMap": "[475]Heaven.rmd"
+	},
+	"[480]T19.rmd": {
+		"mapName": "港町ボルティッシュ",
+		"mapType": 2,
+		"accessMap": "[481]T19_Bank01.rmd,[484]T19_I01.rmd,[482]T19_C01.rmd,[483]T19_W01.rmd,[486]M27.rmd"
+	},
+	"[481]T19_Bank01.rmd": {
+		"mapName": "ボルティッシュ銀行",
+		"mapType": 3,
+		"accessMap": "[480]T19.rmd"
+	},
+	"[482]T19_C01.rmd": {
+		"mapName": "ボルティッシュ教会",
+		"mapType": 3,
+		"accessMap": "[480]T19.rmd"
+	},
+	"[483]T19_W01.rmd": {
+		"mapName": "ボルティッシュ武器店",
+		"mapType": 3,
+		"accessMap": "[480]T19.rmd"
+	},
+	"[484]T19_I01.rmd": {
+		"mapName": "ボルティッシュ旅館 / 酒場",
+		"mapType": 3,
+		"accessMap": "[480]T19.rmd,[485]T19_I02.rmd"
+	},
+	"[485]T19_I02.rmd": {
+		"mapName": "ボルティッシュ旅館 / 寝室",
+		"mapType": 3,
+		"accessMap": "[484]T19_I01.rmd"
+	},
+	"[486]M27.rmd": {
+		"mapName": "幻影の谷 / シトロンリバー上流",
+		"mapType": 1,
+		"accessMap": "[487]M26.rmd,[480]T19.rmd"
+	},
+	"[487]M26.rmd": {
+		"mapName": "幻影の谷 / ブラックファイヤーダンジョン付近",
+		"mapType": 1,
+		"accessMap": "[488]BF_01.rmd,[486]M27.rmd,[506]BF_U01.rmd"
+	},
+	"[488]BF_01.rmd": {
+		"mapName": "ブラックファイヤーダンジョン",
+		"mapType": 1,
+		"accessMap": "[489]otherplace_01.rmd,[487]M26.rmd"
+	},
+	"[489]otherplace_01.rmd": {
+		"mapName": "異空間",
+		"mapType": 1,
+		"accessMap": "[488]BF_01.rmd"
+	},
+	"[490]BF_02.rmd": {
+		"mapName": "ブラックファイヤーダンジョン",
+		"mapType": 1,
+		"accessMap": "[476]Hell.rmd"
+	},
+	"[491]M09_H01_F01.rmd": {
+		"mapName": "秘密の山荘",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[492]S05_D01_B01.rmd": {
+		"mapName": "ラカリフサ北の洞窟",
+		"mapType": 1,
+		"accessMap": "[439]S05.rmd"
+	},
+	"[493]S24_C02_B01.rmd": {
+		"mapName": "神秘の洞窟　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[317]S24.rmd,[494]S24_C02_B02.rmd"
+	},
+	"[494]S24_C02_B02.rmd": {
+		"mapName": "神秘の洞窟　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[493]S24_C02_B01.rmd"
+	},
+	"[495]T03_C01_B01.rmd": {
+		"mapName": "隠された収容所",
+		"mapType": 1,
+		"accessMap": "[071]T03.rmd"
+	},
+	"[496]M01_H01_F01.rmd": {
+		"mapName": "酷寒の地",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[497]S22_C01_B01.rmd": {
+		"mapName": "セントロード　Ｂ１",
+		"mapType": 1,
+		"accessMap": "[498]S22_C01_B02.rmd,[444]S22.rmd"
+	},
+	"[498]S22_C01_B02.rmd": {
+		"mapName": "セントロード　Ｂ２",
+		"mapType": 1,
+		"accessMap": "[497]S22_C01_B01.rmd"
+	},
+	"[499]D01.rmd": {
+		"mapName": "開発者の隠れ家",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[500]D02.rmd": {
+		"mapName": "EMの隠れ家",
+		"mapType": 1,
+		"accessMap": "[499]D01.rmd"
+	},
+	"[501]D03.rmd": {
+		"mapName": "開発者の隠れ家",
+		"mapType": 1,
+		"accessMap": "[499]D01.rmd"
+	},
+	"[502] T01_I01.rmd": {
+		"mapName": "冒険家協会ブルンネンシュティグ本部",
+		"mapType": 3,
+		"accessMap": "[000]T01.rmd"
+	},
+	"[503] T04_I01.rmd": {
+		"mapName": "冒険家協会ブリッジヘッド支部",
+		"mapType": 3,
+		"accessMap": "[074]T04.rmd"
+	},
+	"[504]M29.rmd": {
+		"mapName": "エルン山　迂回路",
+		"mapType": 1,
+		"accessMap": "[450]M17.rmd"
+	},
+	"[505]D18.rmd": {
+		"mapName": "乾いたオアシス",
+		"mapType": 1,
+		"accessMap": "[364]D07.rmd"
+	},
+	"[506]BF_U01.rmd": {
+		"mapName": "漆黒の城",
+		"mapType": 1,
+		"accessMap": "[487]M26.rmd,[507]BF_C01.rmd"
+	},
+	"[507]BF_C01.rmd": {
+		"mapName": "深淵の地底湖",
+		"mapType": 1,
+		"accessMap": "[506]BF_U01.rmd"
+	},
+	"[508]D07_S01_B02.rmd": {
+		"mapName": "デフヒルズ古代遺跡 B2",
+		"mapType": 1,
+		"accessMap": "[405]D07_S01_B01.rmd"
+	},
+	"[509]T07_D02_B01.rmd": {
+		"mapName": "ダメルの地下迷宮入口",
+		"mapType": 1,
+		"accessMap": "[376]T07.rmd,[510]T07_D02_B02.rmd"
+	},
+	"[510]T07_D02_B02.rmd": {
+		"mapName": "ダメルの地下迷宮 B1",
+		"mapType": 1,
+		"accessMap": "[509]T07_D02_B01.rmd,[511]T07_D02_B03.rmd"
+	},
+	"[511]T07_D02_B03.rmd": {
+		"mapName": "ダメルの地下迷宮 B2",
+		"mapType": 1,
+		"accessMap": "[510]T07_D02_B02.rmd,[512]T07_D02_B04.rmd"
+	},
+	"[512]T07_D02_B04.rmd": {
+		"mapName": "ダメルの地下迷宮 B3",
+		"mapType": 1,
+		"accessMap": "[511]T07_D02_B03.rmd"
+	},
+	"[513]D17_H01_B1.rmd": {
+		"mapName": "埋もれた地下別荘 B1",
+		"mapType": 1,
+		"accessMap": "[280]D17.rmd,[514]D17_H01_B2.rmd"
+	},
+	"[514]D17_H01_B2.rmd": {
+		"mapName": "埋もれた地下別荘 B2",
+		"mapType": 1,
+		"accessMap": "[513]D17_H01_B1.rmd,[515]D17_H01_B3.rmd"
+	},
+	"[515]D17_H01_B3.rmd": {
+		"mapName": "埋もれた地下別荘 B3",
+		"mapType": 3,
+		"accessMap": "[516]D17_H01_B4.rmd,[514]D17_H01_B2.rmd"
+	},
+	"[516]D17_H01_B4.rmd": {
+		"mapName": "別荘の隠れた洞窟",
+		"mapType": 1,
+		"accessMap": "[515]D17_H01_B3.rmd,[280]D17.rmd"
+	},
+	"[517]G28_G01_D01.rmd": {
+		"mapName": "疑問の森 南東部",
+		"mapType": 1,
+		"accessMap": "[520]G28_G01_D04.rmd,[518]G28_G01_D02.rmd,[300]G28.rmd"
+	},
+	"[518]G28_G01_D02.rmd": {
+		"mapName": "疑問の森 北東部",
+		"mapType": 1,
+		"accessMap": "[519]G28_G01_D03.rmd,[517]G28_G01_D01.rmd"
+	},
+	"[519]G28_G01_D03.rmd": {
+		"mapName": "疑問の森 北西部",
+		"mapType": 1,
+		"accessMap": "[518]G28_G01_D02.rmd,[520]G28_G01_D04.rmd"
+	},
+	"[520]G28_G01_D04.rmd": {
+		"mapName": "疑問の森 南西部",
+		"mapType": 1,
+		"accessMap": "[519]G28_G01_D03.rmd,[517]G28_G01_D01.rmd"
+	},
+	"[600]T09_H01.rmd": {
+		"mapName": "小都市ビッグアイ応急治療室",
+		"mapType": 3,
+		"accessMap": "[374]T09.rmd"
+	},
+	"[801]GvG_standby_0.rmd": {
+		"mapName": "決戦都市ヒルドブラント",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[900]Duel_standby_0.rmd": {
+		"mapName": "決戦都市ヒルドブラント",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[901]Duel_Standby_1.rmd": {
+		"mapName": "1 vs 1 決戦待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[902]Duel_Standby_2.rmd": {
+		"mapName": "2 vs 2 決戦待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[903]Duel_Standby_3.rmd": {
+		"mapName": "3 vs 3 決戦待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[904]Duel_Standby_4.rmd": {
+		"mapName": "4 vs 4 決戦待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[905]Duel_Standby_5.rmd": {
+		"mapName": "5 vs 5 決戦待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[906]Duel_Standby_6.rmd": {
+		"mapName": "決戦大会の予選待機所",
+		"mapType": 2,
+		"accessMap": ""
+	},
+	"[912]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[913]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[914]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[915]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[916]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[917]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[918]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[919]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[920]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[921]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[922]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[923]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[924]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[925]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[926]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[927]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[928]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[929]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[930]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[931]GB_LV02.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[932]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[933]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[934]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[935]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[936]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[937]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[938]GB_LV03.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[939]GB_LV04.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[940]GB_LV04.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[941]GB_LV05.rmd": {
+		"mapName": "ギルド攻城戦フィールド",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[942]GH_LV01.rmd": {
+		"mapName": "[ランク1]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[943]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[944]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[945]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[946]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[947]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[948]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[949]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[950]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[951]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[952]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[953]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[954]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[955]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[956]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[957]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[958]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[959]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[960]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[961]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[962]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[963]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[964]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[965]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[966]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[967]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[968]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[969]GH_LV02.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[970]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[971]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[972]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[973]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[974]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[975]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[976]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[977]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[978]GH_LV03.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[979]GH_LV04.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[980]GH_LV04.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[981]GH_LV04.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[982]GH_LV05.rmd": {
+		"mapName": "ギルドホール",
+		"mapType": 0,
+		"accessMap": ""
+	},
+	"[986]Word_Q.rmd": {
+		"mapName": "イベントフィールド",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[989]OX_Q.rmd": {
+		"mapName": "○ / ×　クイズ　マップ",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[990]Guild_vs_00.rmd": {
+		"mapName": "バヘル大河 / ２粒の涙",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[991]Guild_vs_01.rmd": {
+		"mapName": "デフヒルズ / 砂漠の遺跡",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[992]Guild_vs_02.rmd": {
+		"mapName": "エルベルグ山脈 / 岩の谷",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[993]Guild_vs_03.rmd": {
+		"mapName": "ソゴム山脈 / 赤い丘",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[994]Guild_vs_04.rmd": {
+		"mapName": "ナラダ平原 / ２つの丘",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[995]Guild_vs_05.rmd": {
+		"mapName": "バヘル大河 / ２粒の涙",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[996]Guild_vs_06.rmd": {
+		"mapName": "デフヒルズ / 砂漠の遺跡",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[997]Guild_vs_07.rmd": {
+		"mapName": "エルベルグ山脈 / 岩の谷",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[998]Guild_vs_08.rmd": {
+		"mapName": "ソゴム山脈 / 赤い丘",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[999]Guild_vs_09.rmd": {
+		"mapName": "廃墟スバイン要塞",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[521]Prison.rmd": {
+		"mapName": "絶望獄舎",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[979]WORD_Q.rmd": {
+		"mapName": "イベントマップ",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"[980]TEST.rmd": {
+		"mapName": "シーフ士官学校",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"[987]monsterworld.rmd": {
+		"mapName": "Noname Map 02",
+		"mapType": 1,
+		"accessMap": "[988]monsterworld.rmd"
+	},
+	"[988]monsterworld.rmd": {
+		"mapName": "Noname Map 02",
+		"mapType": 1,
+		"accessMap": "[987]monsterworld.rmd,[000]T01.rmd"
+	},
+	"Duel_1vs1.rmd": {
+		"mapName": "ケルチ大橋の決戦場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"Duel_2vs2.rmd": {
+		"mapName": "地下監獄の決戦場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"Duel_3vs3.rmd": {
+		"mapName": "ビガプールの決戦場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"Duel_4vs4.rmd": {
+		"mapName": "栄光の決戦場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"Duel_5vs5.rmd": {
+		"mapName": "砂嵐の決戦場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"GH2_00.rmd": {
+		"mapName": "[ランク2]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH2_01.rmd": {
+		"mapName": "[ランク2]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH2_02.rmd": {
+		"mapName": "[ランク2]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH3_00.rmd": {
+		"mapName": "[ランク3]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH3_01.rmd": {
+		"mapName": "[ランク3]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH4_00.rmd": {
+		"mapName": "[ランク4]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH4_01.rmd": {
+		"mapName": "[ランク4]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"GH5_00.rmd": {
+		"mapName": "[ランク5]ギルドホール",
+		"mapType": 3,
+		"accessMap": ""
+	},
+	"expansion\\[alphas_hide_jail]000.rmd": {
+		"mapName": "アルパス地下監獄の隠された地下牢",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[arch_devil]000.rmd": {
+		"mapName": "アークデビル軍団の駐屯地",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Bachel_Lizard_cave]000.rmd": {
+		"mapName": "東バヘル急流カルスト洞窟のリザード洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Big_rat_king]000.rmd": {
+		"mapName": "ビックマウスダンジョンのラットキング区域",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[bug_cave]000.rmd": {
+		"mapName": "蟲巣窟の隠された洞窟",
+		"mapType": 1,
+		"accessMap": "expansion\\[bug_cave]001.rmd"
+	},
+	"expansion\\[bug_cave]001.rmd": {
+		"mapName": "蟲巣窟の隠された洞窟",
+		"mapType": 1,
+		"accessMap": "expansion\\[bug_cave]000.rmd"
+	},
+	"expansion\\[Bury_corpse]000.rmd": {
+		"mapName": "地下水路の腐った死体場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Cave_La]000.rmd": {
+		"mapName": "河口ダンジョン'ラ'の隠された洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[cave_of_bloodogre]000.rmd": {
+		"mapName": "血塗られたオーガの洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[cave_of_Hesopar]000.rmd": {
+		"mapName": "ヘソパルの洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[confession]000.rmd": {
+		"mapName": "聖なる懺悔の部屋　１Ｆ",
+		"mapType": 1,
+		"accessMap": "expansion\\[confession]001.rmd"
+	},
+	"expansion\\[confession]001.rmd": {
+		"mapName": "聖なる懺悔の部屋　２Ｆ",
+		"mapType": 1,
+		"accessMap": "expansion\\[confession]000.rmd,expansion\\[confession]002.rmd"
+	},
+	"expansion\\[confession]002.rmd": {
+		"mapName": "聖なる懺悔の部屋　３Ｆ",
+		"mapType": 1,
+		"accessMap": "expansion\\[confession]001.rmd"
+	},
+	"expansion\\[curse_tomb_tower]000.rmd": {
+		"mapName": "呪いの墓に建つ呪われし塔",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[damel]000.rmd": {
+		"mapName": "ロシペルの隠れ家",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[dead_treasure]000.rmd": {
+		"mapName": "小さい傭兵墓に巣食う亡者共の宝物庫",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[demon_king]000.rmd": {
+		"mapName": "名も無き遺跡のデーモンキングのねぐら",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[dracolich]000.rmd": {
+		"mapName": "龍の墓",
+		"mapType": 1,
+		"accessMap": "expansion\\[dracolich]001.rmd"
+	},
+	"expansion\\[dracolich]001.rmd": {
+		"mapName": "ドラコリッチの納骨堂",
+		"mapType": 1,
+		"accessMap": "expansion\\[dracolich]000.rmd"
+	},
+	"expansion\\[drug_laboratory]000.rmd": {
+		"mapName": "麻薬巣窟の隠された研究所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[gigastemple]000.rmd": {
+		"mapName": "カダーム・ギガスの寺院",
+		"mapType": 1,
+		"accessMap": "expansion\\[gigastemple]001.rmd"
+	},
+	"expansion\\[gigastemple]001.rmd": {
+		"mapName": "カダーム・ギガスの寺院",
+		"mapType": 1,
+		"accessMap": "expansion\\[gigastemple]000.rmd"
+	},
+	"expansion\\[glory_display_relic]000.rmd": {
+		"mapName": "過ぎし栄光の展示場にある遺物保管所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[GPB]000.rmd": {
+		"mapName": "ギルドポイント戦 / スモーキー諸島　地上戦",
+		"mapType": 1,
+		"accessMap": "expansion\\[GPB]001.rmd"
+	},
+	"expansion\\[GPB]001.rmd": {
+		"mapName": "ギルドポイント戦 / スモーキー諸島　密林地帯",
+		"mapType": 1,
+		"accessMap": "expansion\\[GPB]000.rmd,expansion\\[GPB]002.rmd"
+	},
+	"expansion\\[GPB]002.rmd": {
+		"mapName": "ギルドポイント戦 / スモーキー諸島　山岳要塞",
+		"mapType": 1,
+		"accessMap": "expansion\\[GPB]001.rmd,expansion\\[GPB]003.rmd"
+	},
+	"expansion\\[GPB]003.rmd": {
+		"mapName": "ギルドポイント戦 / スモーキー諸島　地下道",
+		"mapType": 1,
+		"accessMap": "expansion\\[GPB]002.rmd,expansion\\[GPB]004.rmd"
+	},
+	"expansion\\[GPB]004.rmd": {
+		"mapName": "ギルドポイント戦 / スモーキー諸島　悪魔の隠れ家",
+		"mapType": 1,
+		"accessMap": "expansion\\[GPB]003.rmd"
+	},
+	"expansion\\[hagu_treasure]000.rmd": {
+		"mapName": "河口ダンジョンの隠された宝物部屋",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[hanov_pillow_hide]000.rmd": {
+		"mapName": "ハノブ高台望楼の隠されたアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[hanov_stower]000.rmd": {
+		"mapName": "ハノブ南側望楼の地下洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Hilander_cave]000.rmd": {
+		"mapName": "ハイランド洞窟の堕落した部族",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[ironmine_hide]000.rmd": {
+		"mapName": "鉄鉱山の隠された崩壊地域",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[kobolt_cave]000.rmd": {
+		"mapName": "コボルト洞窟の隠されたアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Magic_tomb_curse]000.rmd": {
+		"mapName": "魔法傭兵墓の呪われた亡者の安息所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[mercenary_big]000.rmd": {
+		"mapName": "傭兵達の大きな墓の不思議な妖怪部屋",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[mine_of_tatba]000.rmd": {
+		"mapName": "タトバ鉱山の崩れた炭鉱",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[miznacave_hide]000.rmd": {
+		"mapName": "呪いを受けたミズナ洞窟の隠された洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[moliner tower]000.rmd": {
+		"mapName": "モリネルタワーの隠された研究所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[mysteryarea_of_darkelf]000.rmd": {
+		"mapName": "ダークエルフ王宮の隠された倉庫",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[mysteryarea_of_Spain hall]000.rmd": {
+		"mapName": "スパインホールのミステリーゾーン",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[mythrimine_hide]000.rmd": {
+		"mapName": "ミスリル鉱山の隠された鉄鉱",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[nest_of_ifrit]000.rmd": {
+		"mapName": "イフリィトの棲み処",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[nest_of_kingcrab]000.rmd": {
+		"mapName": "キングクラブの巣",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[oger_jail]000.rmd": {
+		"mapName": "オーガ巣窟の隠された監獄",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[patrol_tomb]000.rmd": {
+		"mapName": "警備兵墓の封印された魂の迷宮",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[poisonbug_hive]000.rmd": {
+		"mapName": "ギルディル川　沼地洞窟の隠された孵化場",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[porin_oubliette]000.rmd": {
+		"mapName": "フォーリン望楼の隠された地下監獄",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[queen]000.rmd": {
+		"mapName": "女王の墓",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[redeye_laboratory]000.rmd": {
+		"mapName": "旧レッドアイ研究所の隠された通路",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[robber_hideway]000.rmd": {
+		"mapName": "路上強盗団アジトの隠された隠れ家",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[ruin_goldmine]000.rmd": {
+		"mapName": "廃坑の隠された金鉱",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[ruins_of_oldcastle]000.rmd": {
+		"mapName": "古代王の墓",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[salty_cave]000.rmd": {
+		"mapName": "ソルティケーブの混沌の空間",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[sealedarea_of_darksoul]000.rmd": {
+		"mapName": "ダークソウルの封印場所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[secret_fortress]000.rmd": {
+		"mapName": "マーズ・ルガスの秘密基地",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[smug_under]000.rmd": {
+		"mapName": "スマグ地下道の隠された地下迷宮",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[spacetime]000.rmd": {
+		"mapName": "閉鎖された時空研究所",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[supernatural]000.rmd": {
+		"mapName": "レッドアイの隠されたアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[swebtower]000.rmd": {
+		"mapName": "レッドアイ特殊エージェントのアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　入口",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]001.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ１",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]002.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ２",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]003.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]004.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]005.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]006.rmd": {
+		"mapName": "古代都市タティリ遺跡ス　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]007.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]008.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantilless]009.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ９",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB1]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ１",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB2]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ２",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB3]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ３",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB4]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ４",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB5]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ５",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB6]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ６",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB7]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ７",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB8]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ８",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tantillessB9]000.rmd": {
+		"mapName": "古代都市タティリス遺跡　Ｂ９",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[Tellet]000.rmd": {
+		"mapName": "テレット・トンネルの隠された洞窟",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[theif_warehouse_hide]000.rmd": {
+		"mapName": "シーフギルド倉庫の隠された部屋",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[tiamath]000.rmd": {
+		"mapName": "果てしない砂漠",
+		"mapType": 1,
+		"accessMap": "expansion\\[tiamath]001.rmd"
+	},
+	"expansion\\[tiamath]001.rmd": {
+		"mapName": "ティアメスの聖地",
+		"mapType": 1,
+		"accessMap": "expansion\\[tiamath]000.rmd"
+	},
+	"expansion\\[tomb]000.rmd": {
+		"mapName": "地下墓地の隠された迷路",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[twilight_waterfall]000.rmd": {
+		"mapName": "トワイライト滝の隠されたアジト",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[vampirekingdom]000.rmd": {
+		"mapName": "ヴァンパイア・キングダム　ブラン城　城下町",
+		"mapType": 1,
+		"accessMap": "expansion\\[vampirekingdom]001.rmd"
+	},
+	"expansion\\[vampirekingdom]001.rmd": {
+		"mapName": "ヴァンパイア・キングダム　ブラン城　城下町",
+		"mapType": 1,
+		"accessMap": "expansion\\[vampirekingdom]000.rmd,expansion\\[vampirekingdom]002.rmd"
+	},
+	"expansion\\[vampirekingdom]002.rmd": {
+		"mapName": "ヴァンパイア・キングダム　ブラン城　城内",
+		"mapType": 1,
+		"accessMap": "expansion\\[vampirekingdom]001.rmd"
+	},
+	"expansion\\[wast_swamp]000.rmd": {
+		"mapName": "地下界戦略家セイジの部屋入口",
+		"mapType": 1,
+		"accessMap": "expansion\\[wast_swamp]001.rmd"
+	},
+	"expansion\\[wast_swamp]001.rmd": {
+		"mapName": "地下界戦略家セイジの部屋",
+		"mapType": 1,
+		"accessMap": "expansion\\[wast_swamp]000.rmd"
+	},
+	"expansion\\[water_dragon]000.rmd": {
+		"mapName": "凍りついた城",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[well_of_hide]000.rmd": {
+		"mapName": "枯れ井戸の隠された迷宮",
+		"mapType": 1,
+		"accessMap": ""
+	},
+	"expansion\\[wolf_cave]000.rmd": {
+		"mapName": "狼巣窟の隠された通路 B1",
+		"mapType": 1,
+		"accessMap": "expansion\\[wolf_cave]001.rmd"
+	},
+	"expansion\\[wolf_cave]001.rmd": {
+		"mapName": "狼巣窟の隠された通路 B2",
+		"mapType": 1,
+		"accessMap": "expansion\\[wolf_cave]000.rmd"
+	}
+}

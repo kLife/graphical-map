@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="RED STONEの様々なツールを提供しています。">
+	<title>グラフィカルマップ - kLife</title>
+	<link rel="shortcut icon" href="../common/img/interface/favicon.ico" />
+
+	<script src="../common/lib/jquery/2.1.1/jquery.min.js"></script>
+	<script src="../common/lib/arbor/0.91/arbor.js"></script>
+	<script src="../common/lib/arbor/0.91/arbor-tween.js"></script>
+	<script src="../common/lib/arbor/0.91/arbor-graphics.js"></script>
+
+	<link href="../common/css/index-style.css" rel="stylesheet" />
+
+	<link href="./css/main.css" rel="stylesheet" />
+	<script src="./js/main.js"></script>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-45757215-4', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header"></div>
+		<div id="main">
+			<br />
+  			<p class="pagetop"><a href="../">home</a></p>
+  			<div class="topic-path"><a href="/">ホーム</a> &gt; グラフィカルマップ</div>
+  			<h1 class="title">グラフィカルマップ</h1>
+			<div class="frame">
+				<div class="fhead">はじめに</div>
+				<div class="fbody">
+					■ 注意<br />
+					<div class="indent-content">
+						<table>
+							<tr>
+								<td>
+									<div class="rs-copyright">
+										&copy;2014 L&amp;K Logic Korea Co., Ltd. All Rights Reserved.<br />
+										&copy;2014 GameOn Co., Ltd. All Rights Reserved.<br />
+										当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。<br />
+										許可無くご利用又は転用する事は出来ませんので、予めご了承下さい。<br />
+									</div>
+								</td>
+								<td>
+									<a href="http://www.redsonline.jp/" target="_blank">
+										<img class="pic" src="../common/img/redfan_150_50.gif" alt="" height="50" width="150">
+									</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div class="fbody">
+					■ 説明<br />
+					<div class="indent-content">
+						マップのリンクを可視化します。<br />
+						データは <a href="https://dl.dropboxusercontent.com/u/70568694/MapDataBase/MapDataBaseIndex.html" target="_blank">四つ葉日記 マップデータベース</a> からいただいきました。<br />
+					</div>
+					<br />
+				</div>
+			</div>
+			<div class="frame">
+				<div class="fhead">マップ</div>
+				<div class="fbody">
+					<div>
+						<form id="form-search" action="javascript:void(0)">
+							<input type="button" id="btn-reset" value="リセット" />
+							<label for="check-hide-building" class="common-no-select">
+								<input type="checkbox" id="check-hide-building" />
+								建物を隠す
+							</label>
+							<input type="text" id="input-search" size="30" />
+							<input type="button" id="btn-search" value="検索して追加" />
+							<span id="search-result"></span>
+						</form>
+					</div>
+					<div id="yotsuba-detail">
+						■ 四つ葉日記 <a id="yotsuba-url" href="https://dl.dropboxusercontent.com/u/70568694/MapDataBase/MapDataBaseIndex.html" target="_blank">マップデータベース</a>
+					</div>
+				</div>
+				<div class="fbody">
+					<div id="view-area">
+						<canvas id="viewport" width="700" height="500"></canvas>
+					</div>
+				</div>
+			</div>
+  			<p class="pagetop"><a href="../">home</a></p>
+			<div id="footer">
+				<br />
+				Copyright &copy; <a href="http://kou0120.blog.fc2.com/">こぅ</a> All Rights Reserved.<br />
+				Design with reference to <a href="http://yotsubadiary3.blog.fc2.com/" target="_blank">くっさー</a><br />
+				<br />
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+/* default
+------------------------------------------------------------ */
+form {
+	margin: 7px 0;
+	padding: 0;
+}
+
+/* view area
+------------------------------------------------------------ */
+#view-area {
+	width: 100%;
+	height: 600px;
+	padding: 0;
+	margin: 0;
+	background: #fafafa;
+}
+
+.hover-node {
+	cursor: pointer;
+}
